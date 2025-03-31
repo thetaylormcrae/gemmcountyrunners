@@ -1,8 +1,36 @@
 # Site configuration
+# Documentation: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#general-configuration
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "air"
 
-# theme repo: https://github.com/mmistakes/so-simple-theme
-remote_theme: mmistakes/so-simple-theme
-
-title: 'Gem County Runners'
+# Site settings
+title: "Gem County Runners"
+#masthead_title: " "
 description: "Improving lives and the community, one run at a time."
-share: true
+plugins:
+  - jekyll-include-cache
+
+breadcrumbs:
+  enabled: true
+
+social:
+  type: Person
+  links:
+    - https://www.strava.com/clubs/gemcountyrunners
+    - https://instagram.com/gemcountyrunners
+
+footer:
+  links:
+    - label: "Strava"
+      icon: "fab fa-brands fa-strava"
+      url: "https://www.strava.com/clubs/gemcountyrunners"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+
+atom_feed:
+  hide: true
+
+include:
+  - .htaccess
+  - _pages

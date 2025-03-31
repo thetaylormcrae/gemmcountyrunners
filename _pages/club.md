@@ -1,6 +1,7 @@
 ---
 title: "Run Club"
-image: 
+permalink: /club/
+image:
   path: /images/emmett-id-overlook.jpg
   thumbnail: /images/emmett-id-overlook-400x200.jpg
   caption: ""

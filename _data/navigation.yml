@@ -1,7 +1,9 @@
 # Sample site navigation bar links
-
-- title: Home
-  url: /
+main:
+  - title: Home
+    url: /
+  - title: Run Club
+    url: /club/
 # - title: Posts
 #   url: /posts/
 # - title: Categories
