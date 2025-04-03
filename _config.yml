@@ -26,7 +26,7 @@ footer:
       url: "https://www.strava.com/clubs/gemcountyrunners"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/gemcountyrunners"
 
 atom_feed:
   hide: true
