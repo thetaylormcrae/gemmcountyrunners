@@ -23,6 +23,13 @@ social_links:
     url: "https://www.instagram.com/gemcountyrunners"
     btn_class: "btn--primary"
     btn_label: "Latest on Instagram"
+  - image_path: /assets/images/survey-banner.jpg
+    alt: "availability-survey"
+    title: "Let us know your Availability"
+    excerpt: "We're looking for the best times to coordinate our run group"
+    url: "https://gemcounty.run/availability-survey/"
+    btn_class: "btn--primary"
+    btn_label: "Help make our community awesome!"
 strava_routes:
   - image_path: /assets/images/gcr-course-river_trail.png
     alt: "gcr-river-trail"
