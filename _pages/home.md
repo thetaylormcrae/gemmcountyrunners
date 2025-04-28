@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/emmett-id-overlook.jpg
-title: Entering Gem County
+title: Gem County Runners
 excerpt: >
   Supporting Emmett, ID and the surrounding area through one run at a time. <br />
   <small><a href="/club">Connect with us!</a></small>

@@ -5,8 +5,8 @@ minimal_mistakes_skin: "air"
 
 # Site settings
 title: "Gem County Runners"
-logo: "/assets/images/gcr-88x88.png"
-#masthead_title: " "
+logo: "/assets/images/gcr-822x822.png"
+masthead_title: " "
 description: "Improving lives and the community, one run at a time."
 plugins:
   - jekyll-include-cache
