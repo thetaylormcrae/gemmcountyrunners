@@ -8,7 +8,8 @@ header:
 title: Our growing community
 intro:
   - excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
-  - excerpt: this is just a test item
+  - excerpt: >
+    <strong>this is just a test item</strong>
 social_links:
   - image_path: /assets/images/strava.webp
     alt: "strava-group-page"
