@@ -20,11 +20,11 @@ feature_row:
     btn_label: "Learn more"
 intro:
   - title: Encourage curiosity
-    excerpt: Discover the joy of running and explore new ways to move, no matter your level.
+    excerpt: We aim to create opportunities for everyone to discover the joy of running and movement together.
   - title: Foster relationships
-    excerpt: Connect with your neighbors and local runners to build a stronger, more supportive community.
+    excerpt: Building strong connections with local runners and neighbors is fundamental to our group.
   - title: Contribute locally
-    excerpt: Support the growth and accessibility of Gem County through our running activities and community involvement.
+    excerpt: Giving back to Gem County is important for its continued growth and accessibility.
 ---
 
 {% include feature_row id="intro" %}
