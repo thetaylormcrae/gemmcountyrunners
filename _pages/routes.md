@@ -7,7 +7,8 @@ header:
   overlay_image: /assets/images/emmett-id-overlook.jpg
 title: Our growing community
 intro:
-  - excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
+  - title: exploring together
+    excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
   - title: foster curiosity
     excerpt: >
      <h3>header 3</h3>
