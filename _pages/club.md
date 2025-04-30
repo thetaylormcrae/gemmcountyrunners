@@ -12,7 +12,7 @@ intro:
   - title: Foster relationships
     excerpt: Connect with your neighbors and local runners to build a stronger, more supportive community.
   - title: Contribute locally
-    except: Support the growth and accessibility of Gem County through our running activities and community involvement.
+    excerpt: Support the growth and accessibility of Gem County through our running activities and community involvement.
 social_links:
   - image_path: /assets/images/strava.webp
     alt: "strava-group-page"
