@@ -8,7 +8,8 @@ header:
 title: Our growing community
 intro:
   - excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
-  - excerpt: >
+  - title: foster curiosity
+    excerpt: >
      <h3>header 3</h3>
 strava_routes:
   - image_path: /assets/images/gcr-course-river_trail.png
