@@ -18,6 +18,14 @@ feature_row:
     url: "/club"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+intro:
+  - title: Encourage curiosity
+    excerpt: Discover the joy of running and explore new ways to move, no matter your level.
+  - title: Foster relationships
+    excerpt: Connect with your neighbors and local runners to build a stronger, more supportive community.
+  - title: Contribute locally
+    excerpt: Support the growth and accessibility of Gem County through our running activities and community involvement.
 ---
 
+{% include feature_row id="intro" %}
 {% include feature_row id="feature_row" type="center" %}
