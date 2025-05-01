@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: single
+classes: wide
 permalink: /club/routes/
 header:
   overlay_color: "#000"
