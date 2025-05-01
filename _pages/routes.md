@@ -5,13 +5,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/emmett-id-overlook.jpg
-title: Our growing community
 intro:
   - title: exploring together
     excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
-  - title: foster curiosity
-    excerpt: >
-     <h3>header 3</h3>
 strava_routes:
   - image_path: /assets/images/gcr-course-river_trail.png
     alt: "gcr-river-trail"
