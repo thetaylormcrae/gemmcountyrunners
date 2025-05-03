@@ -6,14 +6,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/emmett-id-overlook.jpg
 title: About Gem County Runners
-intro:
-  - title: Encourage Curiosity. Foster Relationships. Contribute Locally.
-    excerpt: >
-      So much of life can lead us to feel stagnant, isolated, and unaware of those around us.
-      Gem County Runners was created to provide opportunities for runners and neighbors to reconnect, engagement,
-      and promote a healthy community.
-
-      <center>We're excited to have you <a href="../our-runs/">join us</a> at our next run!</center>
+excerpt: >
+  <h3>Encourage Curiosity. Foster Relationships. Contribute Locally.</h3>
+  So much of life can lead us to feel stagnant, isolated, and unaware of those around us.
+  Gem County Runners was created to provide opportunities for runners and neighbors to reconnect, engagement,
+  and promote a healthy community.
 social_links:
   - image_path: /assets/images/strava.webp
     alt: "strava-group-page"
@@ -48,7 +45,5 @@ outro:
     btn_class: "btn--primary"
     btn_label: "Explore Gem County"
 ---
-
-{% include feature_row id="intro" type="center" %}
 {% include feature_row id="social_links" %}
 {% include feature_row id="outro" type="center" %}
