@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /our-runs/
+title: Run and Move With Us
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
