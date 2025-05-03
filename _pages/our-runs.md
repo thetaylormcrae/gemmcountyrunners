@@ -3,10 +3,9 @@ layout: splash
 permalink: /our-runs/
 title: Run and Move With Us
 excerpt: >
-  We all, at some point, have been exposed to running as a punishment or a "chore".
-  At Gem County Runners, we believe in staying curious and thoughtfully exploring of
-  movement together! No matter the distance or pace, we view each run as an opportunity
-  to move well together.
+  Forget running as a chore! At Gem County Runners, we're all about
+  curiously exploring movement together. Every run, no matter the distance
+  or pace, is a chance to move well as a team. Join us!
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -21,11 +20,9 @@ saturday_shuffle:
 outro:
   - title: More to come!
     excerpt: We're just getting started and look to add more dates to our line up! Interested in exploring more of Gem County?
-    url: "https://www.strava.com/routes/3340894005752000780"
+    url: "../our-routes/"
     btn_class: "btn--primary"
     btn_label: "See More Routes"
 ---
-
-{% include feature_row id="intro" type="center" %}
 {% include feature_row id="saturday_shuffle" type="left" %}
 {% include feature_row id="outro" type="center" %}
