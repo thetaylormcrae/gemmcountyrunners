@@ -13,7 +13,7 @@ excerpt: >
 intro:
   - title: When we run
     excerpt: Looking to join us?
-    url: "../our-routes/"
+    url: "../our-runs/"
     btn_class: "btn--primary"
     btn_label: "Let's go!"
   - title: Where we run
@@ -44,5 +44,6 @@ social_links:
     btn_class: "btn--primary"
     btn_label: "Help make our community awesome!"
 ---
-<center>{% include feature_row id="intro" %}</center>
+{% include feature_row id="intro" %}
+{: .text-center}
 {% include feature_row id="social_links" %}
