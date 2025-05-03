@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: splash
 classes: wide
-permalink: /about/routes/
+permalink: /our-routes/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
