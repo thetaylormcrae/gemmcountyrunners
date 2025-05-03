@@ -6,6 +6,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/emmett-id-overlook.jpg
 title: Our growing community
+intro:
+  - title: Where we run together
+    excerpt: No matter the distance you're looking to cover, we've got options!
+    url: "/our-routes/"
+    btn_class: "btn--primary"
+    btn_label: "Explore Gem County"
 social_links:
   - image_path: /assets/images/strava.webp
     alt: "strava-group-page"
@@ -30,4 +36,5 @@ social_links:
     btn_label: "Help make our community awesome!"
 ---
 
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id="social_links" %}
