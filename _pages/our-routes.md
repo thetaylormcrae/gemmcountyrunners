@@ -1,7 +1,7 @@
 ---
 layout: splash
-classes: wide
 permalink: /our-routes/
+title: Where We Run
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -34,5 +34,5 @@ strava_routes:
 
 ---
 
-{% include feature_row id="intro" %}
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id="strava_routes" %}
