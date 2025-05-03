@@ -9,7 +9,7 @@ intro:
   - title: Encouraging Curiosity
     excerpt: >
       We all, at some point, have been exposed to running as a punishment or a "chore".
-      At Gem County Runners, we believe in staying curious and thoughtful exploration of
+      At Gem County Runners, we believe in staying curious and thoughtfully exploring of
       movement together! No matter the distance or pace, we view each run as an opportunity
       to move well together.
 saturday_shuffle:
