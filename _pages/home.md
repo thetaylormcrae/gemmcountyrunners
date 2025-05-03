@@ -9,13 +9,13 @@ header:
 title: Gem County Runners
 excerpt: >
   Supporting Emmett, ID and the surrounding area through one run at a time. <br />
-  <small><a href="/club">Connect with us!</a></small>
+  <small><a href="/about">Connect with us!</a></small>
 feature_row:
   - image_path: /assets/images/welcome-gem-county.jpg
     alt: "welcome-gem-county"
     title: "Run Club"
     excerpt: "Get Connected with our growing community!"
-    url: "/club"
+    url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 intro:
