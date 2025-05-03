@@ -2,8 +2,12 @@
 main:
   - title: Home
     url: /
-  - title: Run Club
-    url: /club/
+  - title: About
+    url: /about/
+  - title: Weekly Runs
+    url: /about/runs/
+  - title: Routes
+    url: /about/routes/
 # - title: Posts
 #   url: /posts/
 # - title: Categories
