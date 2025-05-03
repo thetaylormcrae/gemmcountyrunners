@@ -2,17 +2,15 @@
 layout: splash
 permalink: /our-runs/
 title: Run and Move With Us
+excerpt: >
+  We all, at some point, have been exposed to running as a punishment or a "chore".
+  At Gem County Runners, we believe in staying curious and thoughtfully exploring of
+  movement together! No matter the distance or pace, we view each run as an opportunity
+  to move well together.
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/emmett-id-overlook.jpg
-intro:
-  - title: Encouraging Curiosity
-    excerpt: >
-      We all, at some point, have been exposed to running as a punishment or a "chore".
-      At Gem County Runners, we believe in staying curious and thoughtfully exploring of
-      movement together! No matter the distance or pace, we view each run as an opportunity
-      to move well together.
 saturday_shuffle:
   - title: Saturday Shuffle
     image_path: /assets/images/gcr-course-river_trail.png
