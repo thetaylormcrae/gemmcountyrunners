@@ -44,6 +44,5 @@ social_links:
     btn_class: "btn--primary"
     btn_label: "Help make our community awesome!"
 ---
-<center>{% include feature_row id="intro" %}</center>
-{: .text-justify}
+{% include feature_row id="intro" %}
 {% include feature_row id="social_links" %}
