@@ -8,9 +8,9 @@ header:
 title: About Gem County Runners
 excerpt: >
   <h3>Encourage Curiosity. Foster Relationships. Contribute Locally.</h3>
-  So much of life can lead us to feel stagnant, isolated, and unaware of those around us.
-  Gem County Runners was created to provide opportunities for runners and neighbors to reconnect, engagement,
-  and promote a healthy community.
+  Life can feel stagnant and isolating. Gem County Runners offers a chance
+  for runners and neighbors to reconnect and engage. We're building a 
+  healthier, more connected community, one run at a time.
 social_links:
   - image_path: /assets/images/strava.webp
     alt: "strava-group-page"
