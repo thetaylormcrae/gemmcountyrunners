@@ -9,6 +9,11 @@ logo: "/assets/images/gcr-822x822.png"
 masthead_title: " "
 description: "Improving lives and the community, one run at a time."
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 breadcrumbs:
