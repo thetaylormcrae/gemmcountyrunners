@@ -10,14 +10,16 @@ excerpt: >
   Life can feel stagnant and isolating. Gem County Runners offers a chance
   for runners and neighbors to reconnect and engage. <br /><br />
   We're building a healthier, more connected community, one run at a time.
-intro:
+intro_when:
   - title: When we run
     excerpt: Looking to join us?
     url: "../our-runs/"
     btn_class: "btn--primary"
     btn_label: "Let's go!"
+intro_where:
   - title: Where we run
     excerpt: No matter the distance you're looking to cover, we've got options!
+    image_path: /assets/images/gem-county-google-maps.png
     url: "../our-routes/"
     btn_class: "btn--primary"
     btn_label: "Explore Gem County"
@@ -44,5 +46,6 @@ social_links:
     btn_class: "btn--primary"
     btn_label: "Help make our community awesome!"
 ---
-{% include feature_row id="intro" %}
+{% include feature_row id="intro_when" type="center" %}
+{% include feature_row id="intro_where" type="right" %}
 {% include feature_row id="social_links" %}
