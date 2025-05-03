@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /our-runs/
-title: Run and Move With Us
+title: When We Run
 excerpt: >
   Forget running as a chore! At Gem County Runners, we're all about
   curiously exploring movement together. Every run, no matter the distance
