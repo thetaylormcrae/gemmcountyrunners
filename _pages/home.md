@@ -13,11 +13,11 @@ title: Gem County Runners
 excerpt: >
   Supporting Emmett, ID and the surrounding area one run at a time.
 intro:
-  - title: Encourage curiosity
+  - title: Encourage Curiosity
     excerpt: We aim to create opportunities for everyone to discover the joy of running and movement together.
-  - title: Foster relationships
-    excerpt: Building strong connections with local runners and neighbors is fundamental to our group.
-  - title: Contribute locally
+  - title: Foster Community
+    excerpt: Building strong connections with local runners and neighbors is crucial to our group.
+  - title: Contribute Locally
     excerpt: Giving back to Gem County is important for its continued growth and accessibility.
 feature_row:
   - image_path: /assets/images/welcome-gem-county.jpg
