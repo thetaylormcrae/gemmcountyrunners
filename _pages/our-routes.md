@@ -2,13 +2,11 @@
 layout: splash
 permalink: /our-routes/
 title: Where We Run
+excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/emmett-id-overlook.jpg
-intro:
-  - title: exploring together
-    excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
 strava_routes:
   - image_path: /assets/images/gcr-course-river_trail.png
     alt: "gcr-river-trail"
@@ -33,6 +31,4 @@ strava_routes:
     btn_label: "More information"
 
 ---
-
-{% include feature_row id="intro" type="center" %}
 {% include feature_row id="strava_routes" %}
