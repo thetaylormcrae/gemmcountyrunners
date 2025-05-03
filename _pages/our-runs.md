@@ -22,9 +22,9 @@ saturday_shuffle:
 outro:
   - title: More to come!
     excerpt: We're just getting started and look to add more dates to our line up! Interested in exploring more of Gem County?
-      url: "https://www.strava.com/routes/3340894005752000780"
-      btn_class: "btn--primary"
-      btn_label: "See More Routes"
+    url: "https://www.strava.com/routes/3340894005752000780"
+    btn_class: "btn--primary"
+    btn_label: "See More Routes"
 ---
 
 {% include feature_row id="intro" type="center" %}
