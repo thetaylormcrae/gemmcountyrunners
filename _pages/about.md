@@ -33,7 +33,7 @@ social_links:
     url: "https://gemcounty.run/availability-survey/"
     btn_class: "btn--primary"
     btn_label: "Help make our community awesome!"
-outro:
+intro:
   - title: When we run
     excerpt: Looking to join us?
     url: "../our-routes/"
@@ -45,5 +45,5 @@ outro:
     btn_class: "btn--primary"
     btn_label: "Explore Gem County"
 ---
+{% include feature_row id="intro" %}
 {% include feature_row id="social_links" %}
-{% include feature_row id="outro" type="center" %}
