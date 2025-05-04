@@ -33,6 +33,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gemcountyrunners"
+    label: GCRD
+    icon: "fa-duotone fa-solid fa-bell-concierge"
+    url: "https://www.gemcountyrecreation.com"
 
 atom_feed:
   hide: true
