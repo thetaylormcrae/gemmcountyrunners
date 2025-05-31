@@ -19,16 +19,18 @@ intro:
     excerpt: Building strong connections with local runners and neighbors is crucial to our group.
   - title: Contribute Locally
     excerpt: Giving back to Gem County is important for its continued growth and accessibility.
-feature_row:
+our_runs:
   - image_path: /assets/images/welcome-gem-county.jpg
     alt: "welcome-gem-county"
-    title: "About Us"
-    excerpt: "Find out about our growing community!"
-    url: "/about"
+    title: "Run with Us"
+    excerpt: >
+      We're building a healthier, more connected community, one run at a time. Whether
+      on Saturday's at 08:30 or through out the week, we'd love to have you join us!
+    url: "/our-runs"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
 ---
 
 {% include feature_row id="intro" %}
-{% include feature_row id="feature_row" type="center" %}
+{% include feature_row id="our_runs" %}
