@@ -25,7 +25,7 @@ our_runs:
     title: "Run with Us"
     excerpt: >
       We're building a healthier, more connected community, one run at a time. Whether
-      on Saturday's at 08:30 or through out the week, we'd love to have you join us!
+      on Saturday's at 09:00 or through out the week, we'd love to have you join us!
     url: "/our-runs"
     btn_class: "btn--primary"
     btn_label: "Learn more"
