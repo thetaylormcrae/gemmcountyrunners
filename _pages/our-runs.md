@@ -16,7 +16,7 @@ saturday_shuffle:
     alt: "gcr-river-trail"
     excerpt: >
       Saturdays can often be the slowest part of our week. That's why we like to jump start
-      it at 09:00 at the Island's Southern Entrance! Join us for a relaxed <a href="https://www.strava.com/routes/3340894005752000780">3-4mi shuffle</a> along the Payette River.
+      it at 08:00 at the Island's Southern Entrance! Join us for a relaxed <a href="https://www.strava.com/routes/3340894005752000780">3-4mi shuffle</a> along the Payette River.
 outro:
   - title: More to come!
     excerpt: We're just getting started and look to add more dates to our line up! Interested in exploring more of Gem County?
