@@ -19,7 +19,7 @@ saturday_shuffle:
       it at 08:00 at the Island's Southern Entrance! Join us for a relaxed <a href="https://www.strava.com/routes/3340894005752000780">3ish mile shuffle</a> along the Payette River.
 monday_mug_run:
   - title: Monday Mug Run
-    image_path: /assets/images/gcr-course-n_wash_ave_ob.png
+    image_path: /assets/images/gcr-course-emmett_city_park_lolli.png
     alt: "gcr-city-center"
     excerpt: >
       You know that face you make first thing on a Monday morning? We'd love to see it! Come shake off the "Sunday Scaries" for a relaxed run with GCR! Join us at the Gem Island Southern Entrance for <a href="[https://www.strava.com/routes/3340894005752000780](https://strava.app.link/OupK34G4iSb)"> a 3ish mile run</a> through the city center.
