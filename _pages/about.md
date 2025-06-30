@@ -13,6 +13,7 @@ excerpt: >
 intro_when:
   - title: When we run
     excerpt: Looking to join us?
+    image_path: assets/images/PXL_20250613_123414394.jpg
     url: "../our-runs/"
     btn_class: "btn--primary"
     btn_label: "Let's go!"
@@ -46,6 +47,6 @@ social_links:
     btn_class: "btn--primary"
     btn_label: "Help make our community awesome!"
 ---
-{% include feature_row id="intro_when" type="center" %}
+{% include feature_row id="intro_when" type="left" %}
 {% include feature_row id="intro_where" type="right" %}
 {% include feature_row id="social_links" %}
