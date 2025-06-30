@@ -9,7 +9,7 @@ excerpt: >
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/emmett-id-overlook.jpg
+  overlay_image: /assets/images/PXL_20250405_220530356.PANO.jpg
 saturday_shuffle:
   - title: Saturday Shuffle
     image_path: /assets/images/gcr-course-river_trail.png
