@@ -12,7 +12,7 @@ excerpt: >
 ---
 
 <form action="https://api.web3forms.com/submit" method="POST">
-  <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+  <input type="hidden" name="access_key" value="44e4274f-0135-4ee9-a1ad-bec18f07b6fc">
   <input type="hidden" name="subject" value="New message from gemcounty.run">
   <input type="text" name="name" placeholder="Your Name" required>
   <input type="email" name="email" placeholder="Your Email" required>
