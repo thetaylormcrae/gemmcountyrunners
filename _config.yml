@@ -33,14 +33,14 @@ social:
 
 footer:
   links:
-    - label: "Strava"
-      icon: "fab fa-brands fa-strava"
+    - label: "Strava Club"
+      icon: "fab fa-strava"
       url: "https://www.strava.com/clubs/gemcountyrunners"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: "Instagram Journey"
+      icon: "fab fa-instagram"
       url: "https://instagram.com/gemcountyrunners"
-    - label: GCRD
-      icon: "fa-duotone fa-solid fa-bell-concierge"
+    - label: "Local Recreation"
+      icon: "fa-solid fa-person-walking"
       url: "https://www.gemcountyrecreation.com"
 
 atom_feed:
@@ -49,3 +49,4 @@ atom_feed:
 include:
   - .htaccess
   - _pages
+  - _includes/head-custom.html
