@@ -11,7 +11,8 @@ header:
       url: "/about/"
 title: Gem County Runners
 excerpt: >
-  Supporting Emmett, ID and the surrounding area one run at a time.
+  Curious runners. Local routes. Meaningful miles. 
+  Gem County Runners is a community of movers who explore Emmett and beyond—one stride, one story, one shared path at a time.
 intro:
   - title: Encourage Curiosity
     excerpt: We aim to create opportunities for everyone to discover the joy of running and movement together.
