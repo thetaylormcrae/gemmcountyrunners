@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/emmett-id-overlook.jpg
-title: About Gem County Runners
+title: Our Stride, Our Story
 excerpt: >
   Life can feel stagnant and isolating. Gem County Runners offers a chance
   for runners and neighbors to reconnect and engage. <br /><br />
