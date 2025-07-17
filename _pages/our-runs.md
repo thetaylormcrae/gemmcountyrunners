@@ -7,8 +7,7 @@ excerpt: >
   curiously exploring movement together. Every run, no matter the distance
   or pace, is a chance to move well as a team. Join us!
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "linear-gradient(rgba(255,235,180,0.3), rgba(47,127,120,0.6))"
   overlay_image: /assets/images/PXL_20250405_220530356.PANO.jpg
 saturday_shuffle:
   - title: Saturday Shuffle
