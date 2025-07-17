@@ -8,7 +8,7 @@ header:
   overlay_filter: "rgba(76,181,171,0.5)" # GCR teal overlay
 excerpt: >
   Have a question, story, or idea to share? Whether you're a first-timer or longtime member, we're all ears.  
-  Fill out the form below or send us a note—let’s keep Gem County moving together.
+  Fill out the form below or send us a note. Let’s keep Gem County moving together!
 ---
 
 <form action="https://api.web3forms.com/submit" method="POST">
