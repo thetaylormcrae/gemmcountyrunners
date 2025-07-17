@@ -1,8 +1,8 @@
 ---
 layout: splash
 permalink: /our-routes/
-title: Local Loops & Scenic Routes
-excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
+title: Where We Run
+excerpt: From quiet sidewalks to winding trails, these are the routes that move us. Local favorites, hidden gems, and stretches made for wandering—each one a chance to explore Gem County in stride.
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
