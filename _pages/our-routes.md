@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /our-routes/
-title: Where We Run
+title: Local Loops & Scenic Routes
 excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
 header:
   overlay_color: "#000"
