@@ -25,8 +25,8 @@ our_runs:
     alt: "welcome-gem-county"
     title: "Run with Us"
     excerpt: >
-      We're building a healthier, more connected community, one run at a time. Whether
-      on Mondays at 06:00 A.M., Saturdays at 08:00 A.M. or through out the week, we'd love to have you join us!
+      We're building a healthier, more connected community, one run at a time. Join us Mondays at 6 A.M.,
+      Saturdays at 8 A.M., and spontaneous runs throughout the week. There's always a place for your pace!
     url: "/our-runs"
     btn_class: "btn--primary"
     btn_label: "Learn more"
