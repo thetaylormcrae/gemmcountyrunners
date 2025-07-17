@@ -4,8 +4,7 @@ permalink: /our-routes/
 title: Where We Run
 excerpt: From quiet sidewalks to winding trails, these are the routes that move us. Local favorites, hidden gems, and stretches made for wandering—each one a chance to explore Gem County in stride.
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "linear-gradient(rgba(47,127,120,0.5), rgba(35,35,35,0.4))"
   overlay_image: /assets/images/PXL_20250420_134857161.jpg
 strava_routes:
   - image_path: /assets/images/gcr-course-river_trail.png
