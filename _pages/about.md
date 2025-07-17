@@ -2,8 +2,7 @@
 layout: splash
 permalink: /about/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "linear-gradient(rgba(255,138,0,0.4), rgba(76,181,171,0.5))"
   overlay_image: /assets/images/emmett-id-overlook.jpg
 title: Our Stride, Our Story
 excerpt: >
