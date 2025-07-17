@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#000"
+  overlay_color: "#2F7F78"
   overlay_filter: "0.5"
   overlay_image: /assets/images/emmett-id-overlook.jpg
   actions:
