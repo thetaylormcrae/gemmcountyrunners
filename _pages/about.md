@@ -30,10 +30,8 @@ intro_where:
 why_we_run:
   - title: Encourage Curiosity
     excerpt: Movement invites exploration of trails, stories, and ourselves. It's more important to move than move quickly!
-
   - title: Foster Community
     excerpt: Our strength comes from showing up together. Every run is a chance to connect with neighbors, friends, and fellow explorers.
-
   - title: Contribute Locally
     excerpt: We don’t just run through Gem County, we run for it. By giving back, we make each stride matter beyond the miles.
 
@@ -62,5 +60,5 @@ social_links:
 ---
 {% include feature_row id="intro_when" type="left" %}
 {% include feature_row id="intro_where" type="right" %}
-{% include feature_row id="why_we_run" type="center" %}
+{% include feature_row id="why_we_run" %}
 {% include feature_row id="social_links" %}
