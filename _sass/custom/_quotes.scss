@@ -1,0 +1,7 @@
+blockquote, .quote {
+  border-left: 4px solid $accent-color;
+  background-color: lighten($accent-color, 40%);
+  color: $text-color;
+  padding-left: 1em;
+  font-style: italic;
+}
