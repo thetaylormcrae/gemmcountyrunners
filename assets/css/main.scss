@@ -1,0 +1,67 @@
+// Typography
+$body-font: "Quicksand", sans-serif;
+$heading-font: "Montserrat", sans-serif;
+$caption-font: "Roboto Slab", serif;
+
+// Colors
+$primary-color: #4CB5AB;
+$accent-color: #F5BE43;
+$text-color: #2C2C2C;
+$background-color: #F9F9F9;
+$border-color: darken($primary-color, 15%);
+$link-color: $primary-color;
+$link-hover-color: $accent-color;
+
+// Buttons
+.btn {
+  background-color: $accent-color;
+  color: white;
+  font-weight: bold;
+  border-radius: 6px;
+  padding: 0.5em 1em;
+  border: none;
+  text-transform: uppercase;
+}
+
+.btn--primary {
+  background-color: $primary-color;
+}
+
+.btn--info {
+  background-color: darken($primary-color, 10%);
+}
+
+.btn--success {
+  background-color: lighten($accent-color, 10%);
+}
+
+// Headings
+h1, h2, h3, h4 {
+  font-family: $heading-font;
+  color: $primary-color;
+  margin-top: 1em;
+}
+
+// Blockquotes and Quotes
+blockquote, .quote {
+  border-left: 4px solid $accent-color;
+  padding-left: 1em;
+  background-color: lighten($accent-color, 40%);
+  font-style: italic;
+  color: $text-color;
+  margin: 1.5em 0;
+}
+
+// Splash overlays and cards
+.page__hero--overlay {
+  background-image: linear-gradient(rgba(255,138,0,0.4), rgba(76,181,171,0.5));
+}
+
+.feature__title {
+  color: $primary-color;
+}
+
+.feature__excerpt {
+  font-family: $caption-font;
+  color: $text-color;
+}
