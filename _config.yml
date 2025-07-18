@@ -1,13 +1,25 @@
 # Site configuration
-# Documentation: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#general-configuration
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: mint # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: custom
 
 # Site settings
 title: "Gem County Runners"
 logo: "/assets/images/gcr-822x822.png"
 masthead_title: " "
 description: "Improving lives and the community, one run at a time."
+author: Taylor
+locale: en-US
+
+url: "https://gemcounty.run"
+baseurl: ""
+
+# Fonts (Google Fonts)
+google_fonts:
+  - Montserrat:400,700
+  - Roboto+Slab:400,700
+  - Quicksand:400,700
+
+# Plugins (only those supported by GitHub Pages)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -16,8 +28,15 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Breadcrumbs
 breadcrumbs:
   enabled: true
+
+# SEO + Social Metadata
+seo:
+  type: Organization
+  name: Gem County Runners
+  description: "A runner-led community in Emmett, Idaho."
 
 social:
   type: Person
@@ -25,21 +44,25 @@ social:
     - https://www.strava.com/clubs/gemcountyrunners
     - https://instagram.com/gemcountyrunners
 
+# Footer links
 footer:
   links:
-    - label: "Strava"
-      icon: "fab fa-brands fa-strava"
+    - label: "Strava Club"
+      icon: "fab fa-strava"
       url: "https://www.strava.com/clubs/gemcountyrunners"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: "Instagram Journey"
+      icon: "fab fa-instagram"
       url: "https://instagram.com/gemcountyrunners"
-    - label: GCRD
-      icon: "fa-duotone fa-solid fa-bell-concierge"
+    - label: "Local Recreation"
+      icon: "fa-solid fa-person-walking"
       url: "https://www.gemcountyrecreation.com"
 
+# Atom Feed
 atom_feed:
   hide: true
 
+# Include Paths
 include:
   - .htaccess
   - _pages
+  - _includes/head-custom.html

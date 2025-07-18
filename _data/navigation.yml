@@ -2,6 +2,8 @@
 main:
   - title: About
     url: /about/
+  - title: Let's Connect
+    url: /lets-connect/
   - title: Weekly Runs
     url: /our-runs/
   - title: Routes

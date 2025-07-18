@@ -1,0 +1,23 @@
+// ===========================
+// 🟢 Gem County Runners Skin Variables
+// ===========================
+
+// Brand Colors
+$brand-color: #4CB5AB !default;            // Teal
+$primary-color: $brand-color !default;
+$accent-color: #F5BE43 !default;           // Goldenrod
+$secondary-color: $accent-color !default;
+$text-color: #2C2C2C !default;
+$link-color: $primary-color !default;
+$link-hover-color: $accent-color !default;
+$body-background-color: #F9F9F9 !default;
+$border-color: darken($primary-color, 15%) !default;
+
+// Fonts
+$font-family-primary: "Quicksand", sans-serif !default;
+$font-family-secondary: "Montserrat", sans-serif !default;
+$font-family-caption: "Roboto Slab", serif !default;
+$global-font-family: "Quicksand", sans-serif !default;
+$header-font-family: "Montserrat", sans-serif !default;
+$caption-font-family: "Roboto Slab", serif !default;
+

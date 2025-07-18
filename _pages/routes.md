@@ -1,11 +1,13 @@
 ---
 layout: splash
-permalink: /our-routes/
-title: Where We Run
-excerpt: From quiet sidewalks to winding trails, these are the routes that move us. Local favorites, hidden gems, and stretches made for wandering—each one a chance to explore Gem County in stride.
+permalink: /routes/
 header:
-  overlay_filter: "linear-gradient(rgba(47,127,120,0.5), rgba(35,35,35,0.4))"
-  overlay_image: /assets/images/PXL_20250420_134857161.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/emmett-id-overlook.jpg
+title: Let's explore Gem County together!
+intro:
+  - excerpt: We're always looking for ways explore Gem County. Here are a couple of options to get you started!
 strava_routes:
   - image_path: /assets/images/gcr-course-river_trail.png
     alt: "gcr-river-trail"
@@ -30,4 +32,6 @@ strava_routes:
     btn_label: "More information"
 
 ---
+
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id="strava_routes" %}
