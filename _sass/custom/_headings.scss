@@ -1,9 +1,9 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-secondary;
   color: $primary-color;
-  margin-top: 2em;
-  margin-bottom: 0.5em;
-  line-height: 1.2;
+  margin-top: 2em !important;
+  margin-bottom: 0.5em !important;
+  line-height: 1.2 !important;
 }
 
 h1 {
