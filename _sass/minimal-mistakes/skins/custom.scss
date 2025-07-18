@@ -1,164 +1,19 @@
 // ===========================
-// 🟢 Gem County Runners Skin
+// 🟢 Gem County Runners Skin Variables
 // ===========================
 
-// Colors
-$brand-color: #4CB5AB;            // Teal
-$primary-color: #4CB5AB;
-$accent-color: #F5BE43;           // Goldenrod
-$secondary-color: $accent-color;
-$text-color: #2C2C2C;
-$link-color: $primary-color;
-$link-hover-color: $accent-color;
-$body-background-color: #F9F9F9;
-$border-color: darken($primary-color, 15%);
+// Brand Colors
+$brand-color: #4CB5AB !default;            // Teal
+$primary-color: $brand-color !default;
+$accent-color: #F5BE43 !default;           // Goldenrod
+$secondary-color: $accent-color !default;
+$text-color: #2C2C2C !default;
+$link-color: $primary-color !default;
+$link-hover-color: $accent-color !default;
+$body-background-color: #F9F9F9 !default;
+$border-color: darken($primary-color, 15%) !default;
 
 // Fonts
-$font-family-primary: "Quicksand", sans-serif;
-$font-family-secondary: "Montserrat", sans-serif;
-$font-family-caption: "Roboto Slab", serif;
-
-// Buttons
-.btn {
-  background-color: $accent-color;
-  color: white;
-  font-weight: bold;
-  border-radius: 6px;
-  padding: 0.5em 1em;
-  border: none;
-  text-transform: uppercase;
-  font-family: $font-family-secondary;
-  transition: background-color 0.3s ease;
-
-  &:hover {
-    background-color: darken($accent-color, 10%);
-  }
-}
-
-.btn--primary {
-  background-color: $primary-color;
-}
-
-.btn--info {
-  background-color: darken($primary-color, 10%);
-}
-
-.btn--success {
-  background-color: lighten($accent-color, 10%);
-}
-
-// Headings
-h1, h2, h3, h4, h5, h6 {
-  font-family: $font-family-secondary;
-  color: $primary-color;
-  margin-top: 2em;
-  margin-bottom: 0.5em;
-  line-height: 1.2;
-}
-
-h1 {
-  font-size: 2.4em;
-  font-weight: 700;
-  border-bottom: 3px solid $accent-color;
-  padding-bottom: 0.3em;
-}
-
-h2 {
-  font-size: 2em;
-  font-weight: 700;
-  border-left: 4px solid $accent-color;
-  padding-left: 0.6em;
-}
-
-h3 {
-  font-size: 1.6em;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  background-color: lighten($primary-color, 45%);
-  padding: 0.3em 0.6em;
-  border-radius: 4px;
-}
-
-h4 {
-  font-size: 1.4em;
-  font-weight: 600;
-  color: darken($primary-color, 15%);
-}
-
-h5 {
-  font-size: 1.2em;
-  font-weight: 500;
-  font-family: $font-family-caption;
-  color: $accent-color;
-}
-
-h6 {
-  font-size: 1em;
-  font-weight: 400;
-  font-style: italic;
-  color: lighten($text-color, 20%);
-}
-
-// Quotes
-blockquote, .quote {
-  border-left: 4px solid $accent-color;
-  padding-left: 1em;
-  background-color: lighten($accent-color, 40%);
-  font-style: italic;
-  color: $text-color;
-  margin: 1.5em 0;
-}
-
-// Page Features
-.page__hero--overlay {
-  background-image: linear-gradient(rgba(255,138,0,0.4), rgba(76,181,171,0.5));
-}
-
-.feature__title {
-  color: $primary-color;
-}
-
-.feature__excerpt {
-  font-family: $font-family-caption;
-  color: $text-color;
-}
-
-// GCR Custom Classes
-.gcr-highlight {
-  background-color: $primary-color;
-  color: #fff;
-  padding: 2em;
-  font-weight: bold;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(76,181,171,0.3);
-}
-
-.gcr-muted {
-  background-color: #F9F9F9;
-  color: $text-color;
-  font-family: $font-family-caption;
-  padding: 2em;
-}
-
-.trail-story {
-  background-color: #fff;
-  border-left: 4px solid $accent-color;
-  padding: 1.5em 2em;
-  margin: 2em 0;
-  font-style: italic;
-}
-
-.gcr-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2em;
-}
-
-.gcr-spotlight {
-  background-color: $accent-color;
-  color: $text-color;
-  font-family: $font-family-secondary;
-  padding: 3em;
-  border-left: 6px solid $primary-color;
-}
+$font-family-primary: "Quicksand", sans-serif !default;
+$font-family-secondary: "Montserrat", sans-serif !default;
+$font-family-caption: "Roboto Slab", serif !default;
