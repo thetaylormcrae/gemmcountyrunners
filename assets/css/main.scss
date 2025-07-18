@@ -5,8 +5,8 @@
 @import "minimal-mistakes/skins/custom";
 @import "minimal-mistakes";
 
-// 🔧 Your overrides go here
-.btn {
-  background-color: #F5BE43;
-  font-family: "Quicksand", sans-serif;
-}
+@import "custom/buttons";
+//@import "custom/headings";
+//@import "custom/quotes";
+//@import "custom/classes";
+//@import "custom/overrides";
