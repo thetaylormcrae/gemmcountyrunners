@@ -1,0 +1,17 @@
+a {
+  color: $link-color;
+  border-bottom: 2px solid transparent;
+
+  &:hover {
+    border-color: $accent-color;
+  }
+}
+
+.feature__title {
+  color: $primary-color;
+}
+
+.feature__excerpt {
+  font-family: $font-family-caption;
+  color: $text-color;
+}
