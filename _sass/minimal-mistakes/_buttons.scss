@@ -1,0 +1,18 @@
+.btn {
+  background-color: $accent-color;
+  color: white;
+  font-weight: bold;
+  font-family: $font-family-secondary;
+  border-radius: 6px;
+  padding: 0.5em 1em;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: darken($accent-color, 10%);
+  }
+}
+
+.btn--primary {
+  background-color: $primary-color;
+}
