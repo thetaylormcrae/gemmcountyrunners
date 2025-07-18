@@ -31,6 +31,6 @@ our_runs:
     btn_label: "Learn more"
 
 ---
-
+{% include loader.html %}
 {% include feature_row id="intro" %}
 {% include feature_row id="our_runs" type="center" %}
