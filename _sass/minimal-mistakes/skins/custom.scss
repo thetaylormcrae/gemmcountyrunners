@@ -160,4 +160,5 @@ blockquote, .quote {
   color: $text-color;
   font-family: $font-family-secondary;
   padding: 3em;
-  border-left:
+  border-left: 6px solid $primary-color;
+}
