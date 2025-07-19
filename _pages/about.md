@@ -8,8 +8,7 @@ header:
   overlay_filter: "linear-gradient(rgba(255,138,0,0.4), rgba(76,181,171,0.5))"
 
 excerpt: >
-  Whether you’re chasing quiet sidewalks or sunrise trails, Gem County Runners is your invitation to reconnect—
-  with movement, neighbors, and purpose. Let’s build a stronger community, one stride at a time.
+  Whether you’re chasing quiet sidewalks or sunrise trails, Gem County Runners is your invitation to reconnect with movement, neighbors, and purpose. Let’s build a stronger community, one stride at a time.
 
 intro_when:
   - title: When We Run
