@@ -6,7 +6,7 @@ header:
   overlay_filter: "rgba(47,127,120,0.5)"
   overlay_image: /assets/images/emmett-id-overlook.jpg
   actions:
-    - label: "Connect with us!"
+    - label: "Our Story"
       url: "/about/"
 title: Gem County Runners
 excerpt: >
