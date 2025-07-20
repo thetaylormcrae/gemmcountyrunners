@@ -17,7 +17,7 @@ intro:
     excerpt: Curiosity into Movement
   - title: FOSTER COMMUNITY
     excerpt: Movement into Connection
-  - title: Contribute Locally
+  - title: CONTRIBUTE LOCALLY
     excerpt:  Connection into Contribution
 our_runs:
   - image_path: /assets/images/welcome-gem-county.jpg
