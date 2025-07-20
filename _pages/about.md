@@ -28,12 +28,14 @@ intro_where:
 
 why_we_run:
   - title: Encourage Curiosity
-    excerpt: Movement invites exploration of trails, stories, and ourselves. It's more important to move than move quickly!
+    excerpt: We encourage curiosity by helping people reconnect with their bodies and discover how they move. Every step is a chance to explore! Movement matters more than speed or distance.
+    
   - title: Foster Community
-    excerpt: Our strength comes from showing up together. Every run is a chance to connect with neighbors, friends, and fellow explorers.
-  - title: Contribute Locally
-    excerpt: We don’t just run through Gem County, we run for it. By giving back, we make each stride matter beyond the miles.
+    excerpt: Our strength comes from showing up together. When we do, we show that "anyone can get in on this". In the end, exercise becomes a shared experience!
 
+  - title: Contribute Locally
+    excerpt: When curiosity and connection come together, something bigger starts to grow. Movement becomes a way to show up for each other and for the place we call home.
+    
 social_links:
   - image_path: /assets/images/strava.webp
     alt: "Gem County Runners Strava club screenshot"
