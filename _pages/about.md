@@ -57,7 +57,7 @@ social_links:
     btn_class: "btn--primary"
     btn_label: "Make Our Community Stronger!"
 ---
+{% include feature_row id="why_we_run" %}
 {% include feature_row id="intro_when" type="left" %}
 {% include feature_row id="intro_where" type="right" %}
-{% include feature_row id="why_we_run" %}
 {% include feature_row id="social_links" %}
