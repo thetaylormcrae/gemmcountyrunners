@@ -13,12 +13,12 @@ excerpt: >
   Curious runners. Local routes. Meaningful miles. 
   Gem County Runners is a community of movers who explore Emmett and beyond—one stride, one story, one shared path at a time.
 intro:
-  - title: Encourage Curiosity
-    excerpt: We aim to create opportunities for everyone to discover the joy of running and movement together.
-  - title: Foster Community
-    excerpt: Building strong connections with local runners and neighbors is crucial to our group.
+  - title: ENCOURAGE CURIOSITY
+    excerpt: Curiosity into Movement
+  - title: FOSTER COMMUNITY
+    excerpt: Movement into Connection
   - title: Contribute Locally
-    excerpt: Giving back to Gem County is important for its continued growth and accessibility.
+    excerpt:  Connection into Contribution
 our_runs:
   - image_path: /assets/images/welcome-gem-county.jpg
     alt: "welcome-gem-county"
