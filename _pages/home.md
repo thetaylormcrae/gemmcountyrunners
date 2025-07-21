@@ -11,7 +11,7 @@ header:
 title: Gem County Runners
 excerpt: >
   Curious runners. Local routes. Meaningful miles. 
-  Gem County Runners is a community of movers who explore Emmett and beyond—one stride, one story, one shared path at a time.
+  Gem County Runners is a community that explores Emmett and beyond one stride, one story, and one shared path at a time.
 intro:
   - title: Encourage Curiosity
     excerpt: Curiosity into Movement
@@ -22,7 +22,7 @@ intro:
 our_runs:
   - image_path: /assets/images/welcome-gem-county.jpg
     alt: "welcome-gem-county"
-    title: "Run with Us"
+    title: "Move with Us"
     excerpt: >
       We're building a healthier, more connected community, one run at a time. Join us Mondays at 6 A.M.,
       Saturdays at 8 A.M., and spontaneous runs throughout the week. There's always a place for your pace!
