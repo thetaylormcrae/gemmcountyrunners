@@ -1,3 +1,9 @@
 .masthead__inner-wrap {
     font-family: $font-family-secondary !important;
 }
+
+.masthead {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+}
