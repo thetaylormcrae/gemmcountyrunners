@@ -1,5 +1,8 @@
 ---
 layout: splash
+classes:
+  - landing
+  - no-nav
 permalink: /landing/
 hidden: true
 title: "Gem County Runners: Join the Movement"
