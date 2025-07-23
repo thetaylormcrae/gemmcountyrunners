@@ -11,13 +11,13 @@ header:
   overlay_filter: "linear-gradient(rgba(255,138,0,0.4), rgba(76,181,171,0.5))"
   actions:
     - label: "About"
-      url: "#about"
+      url: "/landing/#about"
     - label: "Runs"
-      url: "#runs"
+      url: "/landing/#runs"
     - label: "Contact"
-      url: "#contact"
+      url: "/landing/#contact"
     - label: "Discover"
-      url: "#Discover"
+      url: "/landing/#Discover"
 
 about_gcr:
   - title: Our Stride, Our Story
@@ -62,7 +62,7 @@ outro:
   {% include feature_row id="meetup_saturday" type="left" %}
 </div>
 <div id="contact">
-  {% include feature_row id="lets_connect" %}
+  {% include feature_row id="lets_connect" type="center" %}
   <form action="https://api.web3forms.com/submit" method="POST">
     <input type="hidden" name="access_key" value="44e4274f-0135-4ee9-a1ad-bec18f07b6fc">
     <input type="hidden" name="subject" value="New message from gemcounty.run">
