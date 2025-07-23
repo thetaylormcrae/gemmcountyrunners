@@ -17,7 +17,7 @@ header:
     - label: "Contact"
       url: "/landing/#contact"
     - label: "Discover"
-      url: "/landing/#Discover"
+      url: "/landing/#discover"
 
 about_gcr:
   - title: Our Stride, Our Story
