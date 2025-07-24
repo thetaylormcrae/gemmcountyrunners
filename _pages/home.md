@@ -6,19 +6,29 @@ header:
   overlay_filter: "rgba(47,127,120,0.5)"
   overlay_image: /assets/images/emmett-id-overlook.jpg
   actions:
-    - label: "Our Story"
+    - label: "Our Stride, Our Story"
       url: "/about/"
 title: Gem County Runners
 excerpt: >
   Curious runners. Local routes. Meaningful miles. 
-  Gem County Runners is a community that explores Emmett and beyond one stride, one story, and one shared path at a time.
+  
+  We're a community that explores one stride, one story, and one shared path at a time.
 intro:
   - title: Encourage Curiosity
     excerpt: Curiosity into Movement
+    url: "/our-runs/"
+    btn_class: "btn--primary"
+    btn_label: "Your Next Run"
   - title: Foster Community
     excerpt: Movement into Connection
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Why We Run"
   - title: Contribute Locally
     excerpt:  Connection into Contribution
+    url: "/lets-connect/"
+    btn_class: "btn--primary"
+    btn_label: "Share your ideas!"
 our_runs:
   - image_path: /assets/images/welcome-gem-county.jpg
     alt: "welcome-gem-county"
