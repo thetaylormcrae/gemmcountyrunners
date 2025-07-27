@@ -10,7 +10,7 @@ excerpt: >
   Curious runners. Local routes. Meaningful miles. 
   Gem County Runners is a community that explores Emmett and beyond one stride, one story, and one shared path at a time.
 header:
-  overlay_image: /assets/images/1753637828375.png
+  overlay_image: /assets/images/emmett-id-overlook.jpg
   overlay_filter: "linear-gradient(rgba(255,138,0,0.4), rgba(76,181,171,0.5))"
   actions:
     - label: "About"
@@ -54,6 +54,7 @@ lets_connect:
 outro:
   - title: Your next step starts here.
     excerpt: Discover routes, stories, and ways to get involved. Looking forward to seeing you out there!
+    image_path: /assets/images/1753637828375.png
     url: "https://gemcounty.run"
     btn_class: "btn--primary"
     btn_label: "Join us!"
