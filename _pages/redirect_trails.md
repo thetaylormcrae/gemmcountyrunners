@@ -1,5 +1,5 @@
 ---
-permalink: /trail/
+permalink: /trails/
 ---
 
 <!DOCTYPE html>
