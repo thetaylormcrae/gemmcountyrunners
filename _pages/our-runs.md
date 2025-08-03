@@ -14,14 +14,13 @@ saturday_shuffle:
     image_path: /assets/images/gcr-course-river_trail.png
     alt: "gcr-river-trail"
     excerpt: >
-      Saturdays can often be the slowest part of our week. That's why we like to jump start
-      it at 08:00 at the Island's Southern Entrance! Join us for a relaxed <a href="https://www.strava.com/routes/3340894005752000780">40 minute shuffle</a> along the Payette River.
+      Saturdays can often be the slowest part of our week. Join us for a relaxed <a href="https://www.strava.com/routes/3340894005752000780">40 minute shuffle</a> along the Payette River. Saturdays @ 08:00 a.m.
 monday_mug_run:
   - title: Monday Motivation
     image_path: /assets/images/gcr-course-emmett_city_park_lolli.png
     alt: "gcr-city-center"
     excerpt: >
-      Got the Monday face? We’ve all been there. Let “Monday Motivation” help shake off the Sunday Scaries with a relaxed, feel-good run <a href="https://strava.app.link/kgJ3vEzsxVb"> through Emmett’s heart</a>!
+      Dreading that weekly start? We’ve all been there. Let “Monday Motivation” help shake off the Sunday Scaries with a relaxed, feel-good run <a href="https://strava.app.link/kgJ3vEzsxVb"> through Emmett’s heart</a>! Mondays @ 06:00 a.m.
 outro:
   - title: More to come!
     excerpt: We're just getting started and look to add more dates to our line up! Interested in exploring more of Gem County?
