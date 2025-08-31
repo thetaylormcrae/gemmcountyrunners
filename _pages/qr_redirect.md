@@ -7,8 +7,8 @@ classes: wide
 
 <script src="/assets/js/qr_map.js"></script>
 <script>
-  const segments = window.location.pathname.split("/");
-  const code = segments[segments.length - 1] || segments[segments.length - 2];
+  const params = new URLSearchParams(window.location.search);
+const code = params.get("code");
 
   const map = {};
   window.qrLinks.forEach((entry, idx) => {
