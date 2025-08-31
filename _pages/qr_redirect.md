@@ -1,14 +1,14 @@
 ---
 layout: single
-permalink: /go/
+permalink: /go/index.html
 title: Redirecting...
 classes: wide
 ---
 
 <script src="/assets/js/qr_map.js"></script>
 <script>
-  const segments = window.location.pathname.split("/");
-  const code = segments[segments.length - 1] || segments[segments.length - 2]; // handles trailing slash
+  const segments = window.location.href.split("/");
+  const code = segments[segments.length - 1] || segments[segments.length - 2];
 
   const map = {};
   window.qrLinks.forEach((entry, idx) => {
