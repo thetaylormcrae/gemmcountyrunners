@@ -30,10 +30,10 @@ about_gcr:
       Whether it's sunrise trails or quiet sidewalks, every step invites curiosity. When we show up together, we build community. And that connection fuels local support that moves beyond the miles.
 
 meetup_monday:
-  - title: Monday Mug Run
+  - title: Monday Motivation
     image_path: /assets/images/gcr-course-emmett_city_park_lolli.png
     alt: "gcr-city-center"
-    excerpt: Mondays can be hard, but Mug Run shouldn't! Join us Mondays at 06:00 to shake off the "Sunday Scaries".
+    excerpt: Sundays can be scary, but we shake them off Mondays at 06:00. <b>30-40 minutes</b> of movement awaits!
     url: "https://strava.app.link/OupK34G4iSb"
     btn_class: "btn--primary"
     btn_label: "Route Information"
@@ -42,7 +42,7 @@ meetup_saturday:
   - title: Saturday Shuffle
     image_path: /assets/images/gcr-course-river_trail.png
     alt: "gcr-river-trail"
-    excerpt: Saturdays are meant for Sunshine and smiles! Jump-start your weekend each Saturday at 08:00.
+    excerpt: Saturdays are meant for Sunshine and smiles! Jump-start your weekend each Saturday at 08:00. <b>30-40 minutes</b> of movement awaits!
     url: "https://www.strava.com/routes/3340894005752000780"
     btn_class: "btn--primary"
     btn_label: "Route Information"
