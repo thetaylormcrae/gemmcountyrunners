@@ -78,7 +78,4 @@ outro:
     <button type="submit" class="btn btn--primary">Let’s Connect</button>
   </form>
 </div>
-<div class="instagram-feed">
-  <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/213dfaabd0d95ce7aec59dbce526a7af.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-</div>
 <div id="discover">{% include feature_row id="outro" type="center" %}</div>
