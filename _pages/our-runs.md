@@ -15,12 +15,12 @@ saturday_shuffle:
     alt: "gcr-river-trail"
     excerpt: >
       Saturdays can often be the slowest part of our week. Join us for a relaxed <a href="https://www.strava.com/routes/3340894005752000780">40 minute shuffle</a> along the Payette River. Saturdays @ 08:00 a.m.
-monday_mug_run:
+monday_motivation:
   - title: Monday Motivation
-    image_path: /assets/images/gcr-course-emmett_city_park_lolli.png
+    image_path: /assets/images/Screenshot_20251115-172525.png
     alt: "gcr-city-center"
     excerpt: >
-      Dreading that weekly start? We’ve all been there. Let “Monday Motivation” help shake off the Sunday Scaries with a relaxed, feel-good run <a href="https://strava.app.link/kgJ3vEzsxVb"> through Emmett’s heart</a>! Mondays @ 06:00 a.m.
+      Dreading that weekly start? We’ve all been there. Let "Monday Motivation" help shake off the Sunday Scaries with a relaxed, feel-good run <a href="https://www.strava.com/routes/3409722789213259998"> through Emmett’s heart</a>! Mondays @ 06:00 a.m.
 outro:
   - title: More to come!
     excerpt: We're just getting started and look to add more dates to our line up! Interested in exploring more of Gem County?
@@ -28,6 +28,6 @@ outro:
     btn_class: "btn--primary"
     btn_label: "See More Routes"
 ---
-{% include feature_row id="monday_mug_run" type="right" %}
+{% include feature_row id="monday_motivation" type="right" %}
 {% include feature_row id="saturday_shuffle" type="left" %}
 {% include feature_row id="outro" type="center" %}
