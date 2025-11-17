@@ -31,10 +31,10 @@ about_gcr:
 
 meetup_monday:
   - title: Monday Motivation
-    image_path: /assets/images/gcr-course-emmett_city_park_lolli.png
+    image_path: /assets/images/Screenshot_20251115-172525.png
     alt: "gcr-city-center"
     excerpt: Sundays can be scary, but we shake them off Mondays at 06:00. <b>30-40 minutes</b> of movement awaits!
-    url: "https://strava.app.link/OupK34G4iSb"
+    url: "https://www.strava.com/routes/3409722789213259998"
     btn_class: "btn--primary"
     btn_label: "Route Information"
 
