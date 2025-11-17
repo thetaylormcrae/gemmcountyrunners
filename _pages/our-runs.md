@@ -18,7 +18,7 @@ saturday_shuffle:
       Saturdays are meant for sunshine and smiles! Jump-start your weekend with <b>30-40 minutes</b> of movement.
       <br/>
       <b>time:</b> 8:00 a.m.
-      <b>Location:</b> [Gem Island's front parking lot](https://maps.app.goo.gl/G6Yptkt1RPZUmBnY9).
+      <b>Location:</b> [Gem Island's front parking lot](https://maps.app.goo.gl/BaPxSsdz23LQ7svC8).
 
 monday_motivation:
   - title: Monday Motivation
