@@ -33,7 +33,11 @@ meetup_monday:
   - title: Monday Motivation
     image_path: /assets/images/Screenshot_20251115-172525.png
     alt: "gcr-city-center"
-    excerpt: Sundays can be scary, but we shake them off Mondays at 06:00. <b>30-40 minutes</b> of movement awaits!
+    excerpt: >
+      Dreading that weekly start? We’ve all been there. Let "Monday Motivation" help shake off the Sunday Scaries by running <a href="https://www.strava.com/routes/3409722789213259998"> through Emmett’s heart</a>!
+      <br/>
+      <b>time:</b> 6:00 a.m.
+      <b>Location:</b> [Banducci's Tanning and Espresso](https://maps.app.goo.gl/afaNeTQXSNRqV5gj9)
     url: "https://www.strava.com/routes/3409722789213259998"
     btn_class: "btn--primary"
     btn_label: "Route Information"
@@ -42,7 +46,11 @@ meetup_saturday:
   - title: Saturday Shuffle
     image_path: /assets/images/gcr-course-river_trail.png
     alt: "gcr-river-trail"
-    excerpt: Saturdays are meant for Sunshine and smiles! Jump-start your weekend each Saturday at 08:00. <b>30-40 minutes</b> of movement awaits!
+    excerpt: >
+      Saturdays are meant for sunshine and smiles! Jump-start your weekend with <b>30-40 minutes</b> of movement.
+      <br/>
+      <b>time:</b> 8:00 a.m.
+      <b>Location:</b> [Gem Island's front parking lot](https://maps.app.goo.gl/G6Yptkt1RPZUmBnY9).
     url: "https://www.strava.com/routes/3340894005752000780"
     btn_class: "btn--primary"
     btn_label: "Route Information"
