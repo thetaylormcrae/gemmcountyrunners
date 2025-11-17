@@ -9,18 +9,24 @@ excerpt: >
 header:
   overlay_filter: "linear-gradient(rgba(255,235,180,0.3), rgba(47,127,120,0.6))"
   overlay_image: /assets/images/PXL_20250405_220530356.PANO.jpg
+
 saturday_shuffle:
   - title: Saturday Shuffle
     image_path: /assets/images/gcr-course-river_trail.png
     alt: "gcr-river-trail"
     excerpt: >
-      Saturdays can often be the slowest part of our week. Join us for a relaxed <a href="https://www.strava.com/routes/3340894005752000780">40 minute shuffle</a> along the Payette River. Saturdays @ 08:00 a.m.
+      Saturdays are meant for sunshine and smiles! Jump-start your weekend at 8:00 a.m. with <b>30-40 minutes</b> of movement.
+      Location: [Gem Island's front parking lot](https://maps.app.goo.gl/G6Yptkt1RPZUmBnY9).
+
 monday_motivation:
   - title: Monday Motivation
     image_path: /assets/images/Screenshot_20251115-172525.png
     alt: "gcr-city-center"
     excerpt: >
-      Dreading that weekly start? We’ve all been there. Let "Monday Motivation" help shake off the Sunday Scaries with a relaxed, feel-good run <a href="https://www.strava.com/routes/3409722789213259998"> through Emmett’s heart</a>! Mondays @ 06:00 a.m.
+      Dreading that weekly start? We’ve all been there. Let "Monday Motivation" help shake off the Sunday Scaries by running <a href="https://www.strava.com/routes/3409722789213259998"> through Emmett’s heart</a>! 
+      <b>time:</b> 06:00 a.m.
+      <b>Location:</b> [Banducci's Tanning and Espresso](https://maps.app.goo.gl/afaNeTQXSNRqV5gj9)
+
 outro:
   - title: More to come!
     excerpt: We're just getting started and look to add more dates to our line up! Interested in exploring more of Gem County?
