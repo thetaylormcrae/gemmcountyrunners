@@ -12,7 +12,7 @@ excerpt: >
 
 intro_when:
   - title: When We Run
-    excerpt: Join us Mondays at 6 A.M., Saturdays at 8 A.M., and spontaneous runs throughout the week. There’s always a place for your pace.
+    excerpt: Join us Mondays at 6 a.m., Saturdays at 9 a.m., and spontaneous runs throughout the week. There’s always a place for your pace.
     image_path: /assets/images/PXL_20250613_123414394.jpg
     url: "/our-runs/"
     btn_class: "btn--primary"
