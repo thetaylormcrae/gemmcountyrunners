@@ -35,7 +35,7 @@ our_runs:
     title: "Move with Us"
     excerpt: >
       We're building a healthier, more connected community, one run at a time. Join us Mondays at 6 A.M.,
-      Saturdays at 8 A.M., and spontaneous runs throughout the week. There's always a place for your pace!
+      Saturdays at 9 A.M., and spontaneous runs throughout the week. There's always a place for your pace!
     url: "/our-runs"
     btn_class: "btn--primary"
     btn_label: "Learn more"
