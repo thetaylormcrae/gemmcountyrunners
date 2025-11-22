@@ -36,7 +36,7 @@ meetup_monday:
     excerpt: >
       Dreading that weekly start? We’ve all been there. Let "Monday Motivation" help shake off the Sunday Scaries by running <a href="https://www.strava.com/routes/3409722789213259998"> through Emmett’s heart</a>!
       <br/>
-      <b>time:</b> 6:00 a.m.
+      <b>Time:</b> 6:00 a.m.
       <b>Location:</b> [Banducci's Tanning and Espresso](https://maps.app.goo.gl/afaNeTQXSNRqV5gj9)
     url: "https://www.strava.com/routes/3409722789213259998"
     btn_class: "btn--primary"
@@ -49,7 +49,7 @@ meetup_saturday:
     excerpt: >
       Saturdays are meant for sunshine and smiles! Jump-start your weekend with <b>30-40 minutes</b> of movement.
       <br/>
-      <b>time:</b> 8:00 a.m.
+      <b>Time:</b> 9:00 a.m.
       <b>Location:</b> [Gem Island's front parking lot](https://maps.app.goo.gl/BaPxSsdz23LQ7svC8).
     url: "https://www.strava.com/routes/3340894005752000780"
     btn_class: "btn--primary"
