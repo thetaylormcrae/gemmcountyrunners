@@ -30,8 +30,7 @@ intro:
     btn_class: "btn--primary"
     btn_label: "Share your ideas!"
 engagement:
-    title: "Engage with Gem County Runners"
-    excerpt: ways to engagement with the community
+  - title: "Engage with Gem County Runners"
 our_runs:
   - image_path: /assets/images/welcome-gem-county.jpg
     alt: "welcome-gem-county"
