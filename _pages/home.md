@@ -31,7 +31,7 @@ intro:
     btn_label: "Share your ideas!"
 engagement:
     title: "Engage with Gem County Runners"
-    excerpt: <p style="display: none;">This paragraph is hidden.</p>
+    excerpt: <p hidden>This paragraph is hidden.</p>
 our_runs:
   - image_path: /assets/images/welcome-gem-county.jpg
     alt: "welcome-gem-county"
