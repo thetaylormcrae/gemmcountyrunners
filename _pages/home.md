@@ -13,6 +13,8 @@ excerpt: >
   Curious runners. Local routes. Meaningful miles. 
   
   We're a community that explores one stride, one story, and one shared path at a time.
+
+# feature_row content
 intro:
   - title: Encourage Curiosity
     excerpt: Curiosity into Movement
@@ -29,8 +31,6 @@ intro:
     url: "/lets-connect/"
     btn_class: "btn--primary"
     btn_label: "Share your ideas!"
-engagement:
-  - title: "Engage with Gem County Runners"
 our_runs:
   - image_path: /assets/images/welcome-gem-county.jpg
     alt: "welcome-gem-county"
@@ -44,5 +44,4 @@ our_runs:
 
 ---
 {% include feature_row id="intro" %}
-{% include feature_row id="engagement" type="center" %}
 {% include feature_row id="our_runs" type="center" %}
