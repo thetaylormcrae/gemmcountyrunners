@@ -45,4 +45,5 @@ our_runs:
 
 ---
 {% include feature_row id="intro" %}
+{% include feature_row id="engagement" %}
 {% include feature_row id="our_runs" type="center" %}
