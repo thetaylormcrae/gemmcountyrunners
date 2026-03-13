@@ -14,7 +14,7 @@ strava_routes:
     url: "https://www.strava.com/routes/3340894005752000780"
     btn_class: "btn--primary"
     btn_label: "More information"
-  - image_path: /assets/images/gcr-course_wandering_from_washington.png
+  - image_path: assets/images/gcr-course-wandering_from_washington.png
     alt: "gcr-wandering-washington"
     title: "Route: Wandering from Washington"
     excerpt: "Start at Wild Things Coffee Co to explore another side of Emmett's city center."
