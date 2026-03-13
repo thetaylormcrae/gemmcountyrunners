@@ -22,7 +22,7 @@ saturday_shuffle:
 
 monday_motivation:
   - title: Monday Motivation
-    image_path: /assets/images/gcr-routes_wandering_from_washington.png
+    image_path: /assets/images/gcr-course-wandering_from_washington.png
     alt: "gcr-city-center"
     excerpt: >
       Dreading that weekly start? We’ve all been there. Let "Monday Motivation" help shake off the Sunday Scaries by running <a href="https://www.strava.com/routes/3409722789213259998"> through Emmett’s heart</a>!
