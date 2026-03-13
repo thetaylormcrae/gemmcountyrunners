@@ -14,14 +14,14 @@ strava_routes:
     url: "https://www.strava.com/routes/3340894005752000780"
     btn_class: "btn--primary"
     btn_label: "More information"
-  - image_path: /assets/images/Screenshot_20251115-172525.png
-    alt: "gcr-banduccis-boxes"
-    title: "Route: Banducci's Boxes"
-    excerpt: "Start at Banducci's to explore another side of Emmett's city center."
+  - image_path: /assets/images/gcr-course_wandering_from_washington.png
+    alt: "gcr-wandering-washington"
+    title: "Route: Wandering from Washington"
+    excerpt: "Start at Wild Things Coffee Co to explore another side of Emmett's city center."
     url: "https://www.strava.com/routes/3409722789213259998"
     btn_class: "btn--primary"
     btn_label: "More information"
-  - image_path: /assets/images/Screenshot%202025-11-16%20194709.png
+  - image_path: /assets/images/gcr-course-banduccis-isle-getaway.png
     alt: "gcr-banduccis-island-getaway"
     title: "Route: Banducci's Island Getaway"
     excerpt: "Start at Banducci's for a trip to Gem Island."
