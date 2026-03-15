@@ -29,15 +29,15 @@ about_gcr:
 
       Whether it's sunrise trails or quiet sidewalks, every step invites curiosity. When we show up together, we build community. And that connection fuels local support that moves beyond the miles.
 
-meetup_monday:
+mewtup_monday:
   - title: Monday Motivation
-    image_path: /assets/images/Screenshot_20251115-172525.png
+    image_path: /assets/images/gcr-course-wandering_from_washington.png
     alt: "gcr-city-center"
     excerpt: >
       Dreading that weekly start? We’ve all been there. Let "Monday Motivation" help shake off the Sunday Scaries by running <a href="https://www.strava.com/routes/3409722789213259998"> through Emmett’s heart</a>!
       <br/>
       <b>Time:</b> 6:00 a.m.
-      <b>Location:</b> [Banducci's Tanning and Espresso](https://maps.app.goo.gl/afaNeTQXSNRqV5gj9)
+      <b>Location:</b> [Wild Things Coffee Co.](https://maps.app.goo.gl/PqzvywY77Z7Qj77GA)
     url: "https://www.strava.com/routes/3409722789213259998"
     btn_class: "btn--primary"
     btn_label: "Route Information"
