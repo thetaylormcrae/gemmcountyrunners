@@ -29,7 +29,7 @@ about_gcr:
 
       Whether it's sunrise trails or quiet sidewalks, every step invites curiosity. When we show up together, we build community. And that connection fuels local support that moves beyond the miles.
 
-mewtup_monday:
+meetup_monday:
   - title: Monday Motivation
     image_path: /assets/images/gcr-course-wandering_from_washington.png
     alt: "gcr-city-center"
