@@ -5,7 +5,7 @@ classes:
   - no-nav
 permalink: /landing/
 hidden: true
-title: "Gem County Runners: Join the Movement"
+title: "Gem County Runners: Born in Emmett. Built for Idaho."
 excerpt: >
   Curious runners. Local routes. Meaningful miles. 
   Gem County Runners is a community that explores Emmett and beyond one stride, one story, and one shared path at a time.
