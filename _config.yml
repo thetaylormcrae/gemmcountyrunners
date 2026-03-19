@@ -5,7 +5,7 @@ minimal_mistakes_skin: custom
 # Site settings
 title: "Gem County Runners"
 logo: "/assets/images/gcr-822x822.png"
-masthead_title: ""
+masthead_title: " "
 description: "Curious runners. Local routes. Meaningful miles."
 author: Taylor
 locale: en-US
