@@ -1,5 +1,7 @@
 # Sample site navigation bar links
 main:
+  - title: Start Here
+    url: /what-to-expect/
   - title: Weekly Runs
     url: /our-runs/
   - title: Routes
