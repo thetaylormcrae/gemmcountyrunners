@@ -3,7 +3,6 @@ layout: splash
 title: What to Expect
 classes:
   - landing
-  - no-nav
 permalink: /what-to-expect/
 header:
   overlay_image: /assets/images/emmett-id-overlook.jpg
