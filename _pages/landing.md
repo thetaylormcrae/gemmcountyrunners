@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "What to Expect"
 permalink: /what-to-expect/
 classes:
