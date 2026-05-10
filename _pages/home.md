@@ -2,17 +2,19 @@
 layout: splash
 permalink: /
 hidden: true
+
 header:
   overlay_filter: "rgba(47,127,120,0.5)"
   overlay_image: /assets/images/emmett-id-overlook.jpg
   actions:
-    - label: "Our Stride, Our Story"
-      url: "/about/"
+    - label: "Start Here"
+      url: "/what-to-expect/"
 title: Gem County Runners
 excerpt: >
   Curious runners. Local routes. Meaningful miles.<br>
   We explore one stride, one story, and one shared path at a time.<br>
-  <b>Born in Emmett. Built for Idaho.</b>
+  <b>Born in Emmett. Built for Idaho.</b><br><br>
+  New here? Start with <a href="/what-to-expect/">What to Expect</a>.
 
 # feature_row content
 intro:
@@ -33,18 +35,24 @@ intro:
     url: "/lets-connect/"
     btn_class: "btn--primary"
     btn_label: "Share an Idea"
+
 our_runs:
   - image_path: /assets/images/welcome-gem-county.jpg
     alt: "welcome-gem-county"
     title: "Move with Us"
     excerpt: >
-      We’re building a healthier, more connected community one run at a time.<br>
+      We are building a healthier, more connected community one run at a time.<br>
       Join us Mondays at 6 A.M., Saturdays at 9 A.M., and for spontaneous runs throughout the week.<br><br>
-      Every pace is welcome, and there’s always a place for you!
-    url: "/our-runs"
+      Every pace is welcome, and there is always a place for you.
+    url: "/our-runs/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 
 ---
+
+<div style="text-align:center; margin-top:2rem;">
+  <a href="/what-to-expect/" class="btn btn--primary">Start Here</a>
+</div>
+
 {% include feature_row id="intro" %}
 {% include feature_row id="our_runs" type="center" %}
