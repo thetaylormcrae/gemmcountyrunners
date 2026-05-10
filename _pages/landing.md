@@ -46,7 +46,7 @@ Each run is posted on our **Weekly Runs** page.
 - **Saturdays at 9 A.M.** — Community miles  
 - **Pop‑up runs** — Announced on Facebook + Instagram
 
-Come once or come weekly — it’s all good.
+Come once or come weekly. This is a space for you!
 
 ---
 
@@ -65,7 +65,8 @@ We’re here to move, connect, and enjoy the place we call home.
 ## 🧭 What to Bring
 - Comfortable shoes  
 - Weather‑appropriate layers  
-- Water (optional)  
+- Water (optional)
+- headlamp (optional)  
 - A friend (also optional)  
 - A sense of curiosity (always welcome)
 
@@ -73,7 +74,7 @@ We’re here to move, connect, and enjoy the place we call home.
 
 ## ❤️ Your First Run
 Just show up.  
-Introduce yourself if you want — or don’t.  
+Introduce yourself if you want, or don't.  
 We’ll take care of the rest.
 
 There’s always a place for you.
