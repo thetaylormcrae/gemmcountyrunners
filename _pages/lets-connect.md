@@ -5,11 +5,24 @@ title: Let's Connect
 
 header:
   overlay_image: /assets/images/emmett-id-overlook.jpg
-  overlay_filter: "rgba(76,181,171,0.5)" # GCR teal overlay
+  overlay_filter: "rgba(76,181,171,0.5)"
 excerpt: >
-  Have a question, story, or idea to share? Whether you're a first-timer or longtime member, we're all ears.  
-  Fill out the form below or send us a note. Let’s keep Gem County moving together!
+  We’d love to hear from you. Whether you're new to Gem County Runners or already part of the crew,
+  this is the place to ask questions, share ideas, or just say hello.<br><br>
+  We’re friendly, not fancy — reach out anytime.
 ---
+
+# Let’s Connect
+
+Thanks for stopping by. If you have a question, a story, a route idea, or you just want to introduce yourself, you’re in the right place.  
+We read every message and do our best to reply quickly.
+
+If you're new, you might want to start with  
+👉 <a href="/what-to-expect/">What to Expect</a> — it’ll walk you through how our runs work.
+
+---
+
+## 📬 Send Us a Message
 
 <form action="https://api.web3forms.com/submit" method="POST">
   <input type="hidden" name="access_key" value="44e4274f-0135-4ee9-a1ad-bec18f07b6fc">
@@ -19,5 +32,24 @@ excerpt: >
   <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
   <input type="hidden" name="redirect" value="https://gemcounty.run/thanks">
   <input type="checkbox" name="botcheck" style="display:none;">
-  <button type="submit" class="btn btn--primary">Let’s Connect</button>
+  <button type="submit" class="btn btn--primary">Send Message</button>
 </form>
+
+---
+
+## 💬 Prefer Social?
+
+Sometimes the easiest way to connect is where the community already hangs out.  
+We post pop‑up runs, photos, updates, and local happenings here:
+
+- 👉 <a href="https://facebook.com/groups/639916621983362/">Join the Facebook Group</a>  
+- 👉 <a href="https://instagram.com/gemcountyrunners">Follow on Instagram</a>  
+- 👉 <a href="https://www.strava.com/clubs/gemcountyrunners">Join the Strava Club</a>  
+
+---
+
+## ❤️ We’re Glad You’re Here
+
+Whether you walk, jog, or run — you belong in this community.  
+Thanks for taking a moment to reach out.  
+We’re excited to meet you out on the roads, trails, and paths of Gem County.
