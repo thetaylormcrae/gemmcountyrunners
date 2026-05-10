@@ -1,87 +1,110 @@
 ---
 layout: splash
-title: "What to Expect"
-permalink: /what-to-expect/
+title: What to Expect
 classes:
   - landing
   - no-nav
+permalink: /what-to-expect/
 header:
   overlay_image: /assets/images/emmett-id-overlook.jpg
   overlay_filter: "rgba(47,127,120,0.5)"
-  caption: "Born in Emmett. Built for Idaho."
+  caption: Born in Emmett. Built for Idaho.
+excerpt: >
+  New to Gem County Runners. Here is everything you need to know before your first run.<br><br>
+  We keep things simple, friendly, and welcoming for all paces.
 ---
 
-# What to Expect When You Join Us
+# What to Expect
 
-We know showing up for a group run can feel intimidating.  
-That’s why we keep things simple, friendly, and neighborly! It's the way Gem County does things.
+Showing up for a group run can feel intimidating. We get it.  
+This page is here to make your first visit easy, comfortable, and stress free.
 
-Whether you walk, jog, run, or something in between, you belong here.
+Whether you walk, jog, or run, you belong here.
 
 ---
 
-## 🏃‍♂️ All Paces Welcome
+## All Paces Welcome
+
 We mean it.  
-Everyone from walkers, run‑walkers, stroller‑pushers, dogs, first‑timers, and seasoned runners fit.
+Walkers, run walkers, stroller pushers, dogs, first timers, and seasoned runners all fit in.
 
-No pace expectations.  
-No pressure.  
+There are no pace expectations.  
+There is no pressure.  
 No one runs alone.
 
----
-
-## 📍 Where We Meet
-We rotate routes around Emmett, but most runs start from:
-
-- **Gem Island Sports Complex**  
-- **Emmett City Park**  
-- **Local trailheads and quiet roads**
-
-Each run is posted on our **Weekly Runs** page.
+[Join a Run](/our-runs/){: .btn .btn--primary}
 
 ---
 
-## 🕕 When We Run
-- **Mondays at 6 A.M.** — Start your week strong  
-- **Saturdays at 9 A.M.** — Community miles  
-- **Pop‑up runs** — Announced on Facebook + Instagram
+## Where We Meet
 
-Come once or come weekly. This is a space for you!
+We rotate routes around Emmett. Most runs start from:
+
+- Gem Island Sports Complex  
+- Emmett City Park  
+- Local trailheads and quiet country roads  
+
+Each run begins with a short overview of the route and options for different distances.
+
+[See Weekly Runs](/our-runs/){: .btn .btn--primary}
 
 ---
 
-## 🤝 What the Vibe Is Like
+## When We Run
+
+**Mondays at 6:00 AM**  
+A calm start to the week.
+
+**Saturdays at 9:00 AM**  
+Community miles with a relaxed, social feel.
+
+**Pop Up Runs**  
+Announced on Facebook and Instagram.
+
+[Facebook Group](https://facebook.com/groups/639916621983362/){: .btn .btn--primary}  
+[Instagram](https://instagram.com/gemcountyrunners){: .btn .btn--primary}
+
+---
+
+## What the Vibe Is Like
+
 Friendly.  
 Casual.  
 Neighborly.  
 A little quirky.  
 Very Gem County.
 
-We’re friendly, not fancy.  
-We’re here to move, connect, and enjoy the place we call home.
+We are friendly, not fancy.  
+We are here to move, connect, and enjoy the place we call home.
 
 ---
 
-## 🧭 What to Bring
+## What to Bring
+
 - Comfortable shoes  
-- Weather‑appropriate layers  
-- Water (optional)
-- headlamp (optional)  
-- A friend (also optional)  
-- A sense of curiosity (always welcome)
+- Weather appropriate layers  
+- Water if you want it  
+- A friend if you want company  
+- A sense of curiosity  
 
 ---
 
-## ❤️ Your First Run
+## Your First Run
+
 Just show up.  
-Introduce yourself if you want, or don't.  
-We’ll take care of the rest.
+Introduce yourself if you want to.  
+We will take care of the rest.
 
-There’s always a place for you.
+There is always a place for you.
+
+[Join the Community](/lets-connect/){: .btn .btn--primary}
 
 ---
 
-## 👉 Ready to Join Us?
-- [See Weekly Runs](/our-runs/)  
-- [Meet the Community](/about/)  
-- [Join the Facebook Group](https://facebook.com/groups/639916621983362/)
+## Want to Explore More
+
+Here are a few helpful places to continue:
+
+[Weekly Runs](/our-runs/){: .btn .btn--primary}  
+[Explore Local Routes](/our-routes/){: .btn .btn--primary}  
+[Connect With Us](/lets-connect/){: .btn .btn--primary}
