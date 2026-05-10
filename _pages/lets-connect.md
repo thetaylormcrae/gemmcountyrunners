@@ -7,18 +7,18 @@ header:
   overlay_image: /assets/images/emmett-id-overlook.jpg
   overlay_filter: "rgba(76,181,171,0.5)"
 excerpt: >
-  We’d love to hear from you. Whether you're new to Gem County Runners or already part of the crew,
-  this is the place to ask questions, share ideas, or just say hello.<br><br>
-  We’re friendly, not fancy — reach out anytime.
+  We would love to hear from you. Whether you are new to Gem County Runners or already part of the crew,
+  this is the place to ask questions, share ideas, or simply say hello.<br><br>
+  We are friendly, not fancy. Reach out anytime.
 ---
 
 # Let’s Connect
 
-Thanks for stopping by. If you have a question, a story, a route idea, or you just want to introduce yourself, you’re in the right place.  
+Thanks for stopping by. If you have a question, a story, a route idea, or you just want to introduce yourself, you are in the right place.  
 We read every message and do our best to reply quickly.
 
-If you're new, you might want to start with  
-👉 <a href="/what-to-expect/">What to Expect</a> — it’ll walk you through how our runs work.
+If you are new, you might want to start with  
+👉 <a href="/what-to-expect/">What to Expect</a>. It will walk you through how our runs work.
 
 ---
 
@@ -39,8 +39,8 @@ If you're new, you might want to start with
 
 ## 💬 Prefer Social?
 
-Sometimes the easiest way to connect is where the community already hangs out.  
-We post pop‑up runs, photos, updates, and local happenings here:
+Sometimes the easiest way to connect is where the community already spends time.  
+We post pop up runs, photos, updates, and local happenings here:
 
 - 👉 <a href="https://facebook.com/groups/639916621983362/">Join the Facebook Group</a>  
 - 👉 <a href="https://instagram.com/gemcountyrunners">Follow on Instagram</a>  
@@ -48,8 +48,8 @@ We post pop‑up runs, photos, updates, and local happenings here:
 
 ---
 
-## ❤️ We’re Glad You’re Here
+## ❤️ We Are Glad You Are Here
 
-Whether you walk, jog, or run — you belong in this community.  
+Whether you walk, jog, or run, you belong in this community.  
 Thanks for taking a moment to reach out.  
-We’re excited to meet you out on the roads, trails, and paths of Gem County.
+We look forward to seeing you on the roads, trails, and paths of Gem County.
