@@ -50,9 +50,6 @@ our_runs:
 
 ---
 
-<div style="text-align:center; margin-top:2rem;">
-  <a href="/what-to-expect/" class="btn btn--primary">Start Here</a>
-</div>
 
 {% include feature_row id="intro" %}
 {% include feature_row id="our_runs" type="center" %}
