@@ -1,89 +1,86 @@
 ---
-layout: splash
+layout: single
+title: "What to Expect"
+permalink: /what-to-expect/
 classes:
   - landing
   - no-nav
-permalink: /landing/
-hidden: true
-title: "Gem County Runners: Born in Emmett. Built for Idaho."
-excerpt: >
-  Curious runners. Local routes. Meaningful miles. 
-  Gem County Runners is a community that explores Emmett and beyond one stride, one story, and one shared path at a time.
 header:
   overlay_image: /assets/images/emmett-id-overlook.jpg
-  overlay_filter: "linear-gradient(rgba(255,138,0,0.4), rgba(76,181,171,0.5))"
-  actions:
-    - label: "About"
-      url: "/landing/#about"
-    - label: "Runs"
-      url: "/landing/#runs"
-    - label: "Contact"
-      url: "/landing/#contact"
-    - label: "Discover"
-      url: "/landing/#discover"
-
-about_gcr:
-  - title: Our Stride, Our Story
-    excerpt: >
-      Gem County Runners is built on movement, not speed. We run, walk, and wander together to reconnect with our bodies, each other, and the place we call home.
-
-      Whether it's sunrise trails or quiet sidewalks, every step invites curiosity. When we show up together, we build community. And that connection fuels local support that moves beyond the miles.
-
-meetup_monday:
-  - title: Monday Motivation
-    image_path: /assets/images/gcr-course-wandering_from_washington.png
-    alt: "gcr-city-center"
-    excerpt: >
-      Dreading that weekly start? We’ve all been there. Let "Monday Motivation" help shake off the Sunday Scaries by running <a href="https://www.strava.com/routes/3409722789213259998"> through Emmett’s heart</a>!
-      <br/>
-      <b>Time:</b> 6:00 a.m.
-      <b>Location:</b> [Wild Things Coffee Co.](https://maps.app.goo.gl/PqzvywY77Z7Qj77GA)
-    url: "https://www.strava.com/routes/3409722789213259998"
-    btn_class: "btn--primary"
-    btn_label: "Route Information"
-
-meetup_saturday:
-  - title: Saturday Shuffle
-    image_path: /assets/images/gcr-course-river_trail.png
-    alt: "gcr-river-trail"
-    excerpt: >
-      Saturdays are meant for sunshine and smiles! Jump-start your weekend with <b>30-40 minutes</b> of movement.
-      <br/>
-      <b>Time:</b> 9:00 a.m.
-      <b>Location:</b> [Gem Island's front parking lot](https://maps.app.goo.gl/BaPxSsdz23LQ7svC8).
-    url: "https://www.strava.com/routes/3340894005752000780"
-    btn_class: "btn--primary"
-    btn_label: "Route Information"
-
-lets_connect:
-  - title: Let's Connect
-    excerpt: Have a question, story, or idea to share? Fill out the form below or send us a note. Let’s keep Gem County moving together!
-
-outro:
-  - title: Your next step starts here.
-    excerpt: Discover routes, stories, and ways to get involved. Looking forward to seeing you out there!
-    image_path: /assets/images/1753637828375.png
-    url: "https://gemcounty.run"
-    btn_class: "btn--primary"
-    btn_label: "Join us!"
+  overlay_filter: "rgba(47,127,120,0.5)"
+  caption: "Born in Emmett. Built for Idaho."
 ---
 
-<div id="about">{% include feature_row id="about_gcr" type="center" %}</div>
-<div id="runs">
-  {% include feature_row id="meetup_monday" type="right" %}
-  {% include feature_row id="meetup_saturday" type="left" %}
-</div>
-<div id="contact">
-  {% include feature_row id="lets_connect" type="center" %}
-  <form action="https://api.web3forms.com/submit" method="POST">
-    <input type="hidden" name="access_key" value="44e4274f-0135-4ee9-a1ad-bec18f07b6fc">
-    <input type="hidden" name="subject" value="New message from gemcounty.run">
-    <input type="text" name="name" placeholder="Your Name" required>
-    <input type="email" name="email" placeholder="Your Email" required>
-    <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
-    <input type="hidden" name="redirect" value="https://gemcounty.run/thanks">
-    <input type="checkbox" name="botcheck" style="display:none;">
-    <button type="submit" class="btn btn--primary">Let’s Connect</button>
-  </form>
-</div>
-<div id="discover">{% include feature_row id="outro" type="center" %}</div>
+# What to Expect When You Join Us
+
+We know showing up for a group run can feel intimidating.  
+That’s why we keep things simple, friendly, and neighborly! It's the way Gem County does things.
+
+Whether you walk, jog, run, or something in between, you belong here.
+
+---
+
+## 🏃‍♂️ All Paces Welcome
+We mean it.  
+Everyone from walkers, run‑walkers, stroller‑pushers, dogs, first‑timers, and seasoned runners fit.
+
+No pace expectations.  
+No pressure.  
+No one runs alone.
+
+---
+
+## 📍 Where We Meet
+We rotate routes around Emmett, but most runs start from:
+
+- **Gem Island Sports Complex**  
+- **Emmett City Park**  
+- **Local trailheads and quiet roads**
+
+Each run is posted on our **Weekly Runs** page.
+
+---
+
+## 🕕 When We Run
+- **Mondays at 6 A.M.** — Start your week strong  
+- **Saturdays at 9 A.M.** — Community miles  
+- **Pop‑up runs** — Announced on Facebook + Instagram
+
+Come once or come weekly — it’s all good.
+
+---
+
+## 🤝 What the Vibe Is Like
+Friendly.  
+Casual.  
+Neighborly.  
+A little quirky.  
+Very Gem County.
+
+We’re friendly, not fancy.  
+We’re here to move, connect, and enjoy the place we call home.
+
+---
+
+## 🧭 What to Bring
+- Comfortable shoes  
+- Weather‑appropriate layers  
+- Water (optional)  
+- A friend (also optional)  
+- A sense of curiosity (always welcome)
+
+---
+
+## ❤️ Your First Run
+Just show up.  
+Introduce yourself if you want — or don’t.  
+We’ll take care of the rest.
+
+There’s always a place for you.
+
+---
+
+## 👉 Ready to Join Us?
+- [See Weekly Runs](/our-runs/)  
+- [Meet the Community](/about/)  
+- [Join the Facebook Group](https://facebook.com/groups/639916621983362/)
