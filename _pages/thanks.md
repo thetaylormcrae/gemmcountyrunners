@@ -22,38 +22,41 @@ Here are a few helpful places to explore next.
 
 ## Start Here
 
-If you are new to the community, our What to Expect page is the best place to begin.  
-👉 <a href="/what-to-expect/">What to Expect</a>
+If you are new to the community, our What to Expect page is the best place to begin.
+
+[What to Expect](/what-to-expect/){: .btn .btn--primary}
 
 ---
 
 ## Join a Run
 
 We would love to meet you in person.  
-Check out our weekly schedule and join us for a walk, jog, or run.  
-👉 <a href="/our-runs/">Weekly Runs</a>
+Check out our weekly schedule and join us for a walk, jog, or run.
+
+[Weekly Runs](/our-runs/){: .btn .btn--primary}
 
 ---
 
 ## Explore Local Routes
 
-Curious about where we run in Gem County  
-👉 <a href="/our-routes/">Explore Routes</a>
+Curious about where we run in Gem County
+
+[Explore Routes](/our-routes/){: .btn .btn--primary}
 
 ---
 
 ## Connect With the Community
 
 Stay in touch through our social channels.  
-We share updates, photos, and pop up runs here:
+We share updates, photos, and pop up runs here.
 
-- <a href="https://facebook.com/groups/639916621983362/">Facebook Group</a>  
-- <a href="https://instagram.com/gemcountyrunners">Instagram</a>  
-- <a href="https://www.strava.com/clubs/gemcountyrunners">Strava Club</a>  
+[Facebook Group](https://facebook.com/groups/639916621983362/){: .btn .btn--primary}  
+[Instagram](https://instagram.com/gemcountyrunners){: .btn .btn--primary}  
+[Strava Club](https://www.strava.com/clubs/gemcountyrunners){: .btn .btn--primary}
 
 ---
 
 ## You Belong Here
 
 Whether you walk, jog, or run, you are part of this community.  
-We look forward to seeing you out on the roads, trails, and paths of Gem County.
+We look forward to seeing you on the roads, trails, and paths of Gem County.
