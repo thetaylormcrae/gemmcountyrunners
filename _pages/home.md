@@ -73,4 +73,44 @@ If you can move, you fit.
 
 There are **no pace expectations** and **no one runs alone**.
 
-[What to Expect →](/what
+[What to Expect →](/what-to-expect/){: .btn .btn--primary}
+
+---
+
+# What We’re About
+
+{% include feature_row id="pillars" %}
+
+---
+
+# Coffee After
+
+Most outings end with a stop at **Gem State Coffee Co.**  
+Stay for a drink, a chat, or a few laughs.  
+No pressure — just neighbors being neighbors.
+
+---
+
+# Explore Local Routes
+
+Curious where we run?  
+Here are a few local favorites to get you started.
+
+[Explore Routes →](/our-routes/){: .btn .btn--primary}
+
+---
+
+# Join the Community
+
+We share updates, pop-up runs, photos, and local happenings here:
+
+- [Facebook Group](https://facebook.com/groups/639916621983362/)  
+- [Instagram](https://instagram.com/gemcountyrunners)  
+- [Strava Club](https://www.strava.com/clubs/gemcountyrunners)
+
+---
+
+# You Belong Here
+
+Whether you walk, jog, or run, you’re part of this community.  
+We look forward to seeing you on the roads, trails, and paths of Gem County.
