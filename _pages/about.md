@@ -1,65 +1,53 @@
 ---
 layout: splash
 permalink: /about/
-title: Our Stride, Our Story
+title: About Gem County Runners
 
 header:
   overlay_image: /assets/images/emmett-id-overlook.jpg
-  overlay_filter: "linear-gradient(rgba(255,138,0,0.4), rgba(76,181,171,0.5))"
+  overlay_filter: "rgba(47,127,120,0.5)"
+  actions:
+    - label: "Weekly Runs"
+      url: "/our-runs/"
 
 excerpt: >
-  Whether you’re chasing quiet sidewalks or sunrise trails, Gem County Runners is your invitation to reconnect with movement, neighbors, and purpose. Let’s build a stronger community, one stride at a time.
+  We are a small town running community built on curiosity, connection, and movement.<br>
+  No pressure. No pace expectations. Just people showing up for each other.
 
-intro_when:
-  - title: When We Run
-    excerpt: Join us Mondays at 6 a.m., Saturdays at 9 a.m., and spontaneous runs throughout the week. There’s always a place for your pace.
-    image_path: /assets/images/PXL_20250613_123414394.jpg
+who_we_are:
+  - title: Who We Are
+    excerpt: >
+      We are neighbors, friends, beginners, and returning runners. We show up because moving together feels good and because community grows one shared mile at a time.
     url: "/our-runs/"
+    btn_label: "Come Run With Us"
     btn_class: "btn--primary"
-    btn_label: "Let's Go!"
-
-intro_where:
-  - title: Where We Run
-    excerpt: From short loops to scenic stretches, we’ve got options for every stride across Gem County.
-    image_path: /assets/images/gem-county-google-maps.png
-    url: "/our-routes/"
-    btn_class: "btn--primary"
-    btn_label: "Explore Gem County"
 
 why_we_run:
-  - title: Encourage Curiosity
-    excerpt: We encourage curiosity by helping people reconnect with their bodies and discover how they move. Every step is a chance to explore! Movement matters more than speed or distance.
-    
-  - title: Foster Community
-    excerpt: Our strength comes from showing up together. When we do, we show that "anyone can get in on this". In the end, exercise becomes a shared experience!
+  - title: Why We Run
+    excerpt: >
+      We run to explore. We run to connect. We run to feel grounded in the place we call home. Every route tells a story and every stride is a chance to learn something new.
+    url: "/our-routes/"
+    btn_label: "Explore Routes"
+    btn_class: "btn--primary"
 
-  - title: Contribute Locally
-    excerpt: When curiosity and connection come together, something bigger starts to grow. Movement becomes a way to show up for each other and for the place we call home.
-    
-social_links:
-  - image_path: /assets/images/strava.webp
-    alt: "Gem County Runners Strava club screenshot"
-    title: Strava Community
-    excerpt: Join the conversation, log your runs, and connect with fellow explorers.
-    url: "https://www.strava.com/clubs/gemcountyrunners"
+what_we_believe:
+  - title: What We Believe
+    excerpt: >
+      Movement is for everyone. Curiosity makes us better. Community makes us stronger. When we show up together, even simple miles can feel meaningful.
+    url: "/what-to-expect/"
+    btn_label: "What to Expect"
     btn_class: "btn--primary"
-    btn_label: "Join on Strava"
-  - image_path: /assets/images/instagram.jpg
-    alt: "Gem County Runners Instagram feed"
-    title: Find Us on Instagram
-    excerpt: Share your trail stories, tag us, and relive the best views.
-    url: "https://www.instagram.com/gemcountyrunners"
+
+how_to_join:
+  - title: How to Join
+    excerpt: >
+      Just show up. That is it. No sign ups, no fees, no pressure. Bring a friend or come solo. We will meet you where you are.
+    url: "/our-runs/"
+    btn_label: "Find a Run"
     btn_class: "btn--primary"
-    btn_label: "Follow on Instagram"
-  - image_path: /assets/images/survey-banner.jpg
-    alt: "Gem County Runners availability survey graphic"
-    title: Let Us Know Your Availability
-    excerpt: Help shape our group’s future—share your availability and run preferences.
-    url: "/availability-survey/"
-    btn_class: "btn--primary"
-    btn_label: "Make Our Community Stronger!"
 ---
-{% include feature_row id="why_we_run" %}
-{% include feature_row id="intro_when" type="left" %}
-{% include feature_row id="intro_where" type="right" %}
-{% include feature_row id="social_links" %}
+
+{% include feature_row id="who_we_are" type="left" %}
+{% include feature_row id="why_we_run" type="right" %}
+{% include feature_row id="what_we_believe" type="left" %}
+{% include feature_row id="how_to_join" type="center" %}
