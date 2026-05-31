@@ -1,109 +1,72 @@
 ---
 layout: splash
-title: What to Expect
-classes:
-  - landing
 permalink: /what-to-expect/
+title: What to Expect
+
 header:
   overlay_image: /assets/images/emmett-id-overlook.jpg
   overlay_filter: "rgba(47,127,120,0.5)"
-  caption: Born in Emmett. Built for Idaho.
+  actions:
+    - label: "Weekly Runs"
+      url: "/our-runs/"
+
 excerpt: >
-  New to Gem County Runners. Here is everything you need to know before your first run.<br><br>
-  We keep things simple, friendly, and welcoming for all paces.
+  New to Gem County Runners. Here is what you can expect when you show up.<br>
+  Simple runs. Friendly people. A place where every pace belongs.
+
+welcome:
+  - title: A Friendly Start
+    excerpt: >
+      When you arrive, someone will say hello. We keep things relaxed and neighborly. No pressure, no sign ups, no check ins. Just people gathering to move together.
+    url: "/our-runs/"
+    btn_label: "Find a Run"
+    btn_class: "btn--primary"
+
+pace:
+  - title: Every Pace Welcome
+    excerpt: >
+      Walkers. Run walkers. Joggers. Ruckers. Stroller pushers. Beginners. Returning runners.<br><br>
+      We stay together in small groups and make sure no one is left behind.
+    url: "/our-runs/"
+    btn_label: "Come Run With Us"
+    btn_class: "btn--primary"
+
+routes:
+  - title: Simple Routes
+    excerpt: >
+      Most of our routes are easy to follow and beginner friendly. We choose quiet roads, river paths, and loops that feel good to run or walk.
+    url: "/our-routes/"
+    btn_label: "Explore Routes"
+    btn_class: "btn--primary"
+
+community:
+  - title: How We Connect
+    excerpt: >
+      Pop up runs, photos, local happenings, and friendly chatter. Most of our day to day connection happens in our community spaces.<br><br>
+      <a href="https://facebook.com/groups/639916621983362/">Facebook Group</a><br>
+      <a href="https://instagram.com/gemcountyrunners">Instagram</a><br>
+      <a href="https://www.strava.com/clubs/gemcountyrunners">Strava Club</a>
+
+what_to_bring:
+  - title: What to Bring
+    excerpt: >
+      Comfortable shoes. Weather friendly layers. A water bottle if you like. That is it. No special gear required. Just show up as you are.
+    url: "/our-runs/"
+    btn_label: "See Weekly Runs"
+    btn_class: "btn--primary"
+
+how_to_join:
+  - title: How to Join
+    excerpt: >
+      Show up. That is all. Bring a friend or come solo. We will meet you where you are and help you feel at home.
+    url: "/lets-connect/"
+    btn_label: "Say Hello"
+    btn_class: "btn--primary"
 ---
 
-# What to Expect
-
-Showing up for a group run can feel intimidating. We get it.  
-This page is here to make your first visit easy, comfortable, and stress free.
-
-Whether you walk, jog, or run, you belong here.
-
----
-
-## All Paces Welcome
-
-We mean it.  
-Walkers, run walkers, stroller pushers, dogs, first timers, and seasoned runners all fit in.
-
-There are no pace expectations.  
-There is no pressure.  
-No one runs alone.
-
-[Join a Run](/our-runs/){: .btn .btn--primary}
-
----
-
-## Where We Meet
-
-We rotate routes around Emmett. Most runs start from:
-
-- Gem Island Sports Complex  
-- Emmett City Park  
-- Local trailheads and quiet country roads  
-
-Each run begins with a short overview of the route and options for different distances.
-
-[See Weekly Runs](/our-runs/){: .btn .btn--primary}
-
----
-
-## When We Run
-
-**Mondays at 6:00 AM**  
-A calm start to the week.
-
-**Saturdays at 9:00 AM**  
-Community miles with a relaxed, social feel.
-
-**Pop Up Runs**  
-Announced on Facebook and Instagram.
-
-[Facebook Group](https://facebook.com/groups/639916621983362/){: .btn .btn--primary}  
-[Instagram](https://instagram.com/gemcountyrunners){: .btn .btn--primary}
-
----
-
-## What the Vibe Is Like
-
-Friendly.  
-Casual.  
-Neighborly.  
-A little quirky.  
-Very Gem County.
-
-We are friendly, not fancy.  
-We are here to move, connect, and enjoy the place we call home.
-
----
-
-## What to Bring
-
-- Comfortable shoes  
-- Weather appropriate layers  
-- Water if you want it  
-- A friend if you want company  
-- A sense of curiosity  
-
----
-
-## Your First Run
-
-Just show up.  
-Introduce yourself if you want to.  
-We will take care of the rest.
-
-There is always a place for you.
-
-[Join the Community](/lets-connect/){: .btn .btn--primary}
-
----
-
-## Want to Explore More
-
-Here are a few helpful places to continue:
-
-[Weekly Runs](/our-runs/){: .btn .btn--primary}  
-[Explore Local Routes](/our-routes/){: .btn .btn--primary}  
-[Connect With Us](/lets-connect/){: .btn .btn--primary}
+{% include feature_row id="welcome" type="left" %}
+{% include feature_row id="pace" type="right" %}
+{% include feature_row id="routes" type="left" %}
+{% include feature_row id="community" type="right" %}
+{% include feature_row id="what_to_bring" type="left" %}
+{% include feature_row id="how_to_join" type="center" %}
