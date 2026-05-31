@@ -45,4 +45,23 @@ popups:
 pace:
   - title: Every Pace Welcome
     excerpt: >
-      Walkers. Run walkers. Joggers. Ruckers. Stroller pushers. Beginners
+      Walkers. Run walkers. Joggers. Ruckers. Stroller pushers. Beginners. Returning runners.<br><br>
+      No pace expectations. No pressure. No one runs alone.
+    url: "/what-to-expect/"
+    btn_label: "What to Expect"
+    btn_class: "btn--primary"
+
+routes:
+  - title: Where We Go
+    excerpt: >
+      Curious about our routes. Explore loops, paths, and quiet roads around Emmett. Each one has its own feel.
+    url: "/our-routes/"
+    btn_label: "Explore Routes"
+    btn_class: "btn--primary"
+---
+
+{% include feature_row id="monday" type="left" %}
+{% include feature_row id="saturday" type="right" %}
+{% include feature_row id="popups" type="left" %}
+{% include feature_row id="pace" type="right" %}
+{% include feature_row id="routes" type="center" %}
