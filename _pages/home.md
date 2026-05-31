@@ -22,7 +22,7 @@ this_week:
   - title: This Week
     excerpt: >
       <b>Monday at 6:00 AM</b><br>
-      Wild Things Coffee Co.<br><br>
+      Gem State Coffee Co.<br><br>
       <b>Saturday at 9:00 AM</b><br>
       Gem Island Sports Complex
     url: "/our-runs/"
