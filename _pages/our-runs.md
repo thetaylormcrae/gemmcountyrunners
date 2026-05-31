@@ -1,42 +1,68 @@
 ---
 layout: splash
+title: Weekly Runs
 permalink: /our-runs/
-title: Weekly Steps & Meetups
-excerpt: >
-  At Gem County Runners, we're all about curiously exploring movement
-  together. Every run, no matter the distance or pace, is a chance to
-  move well as a team. Join us!
+hidden: false
+
 header:
-  overlay_filter: "linear-gradient(rgba(255,235,180,0.3), rgba(47,127,120,0.6))"
-  overlay_image: /assets/images/PXL_20250405_220530356.PANO.jpg
+  overlay_filter: "rgba(47,127,120,0.5)"
+  overlay_image: /assets/images/emmett-id-overlook.jpg
+  actions:
+    - label: "Join the Community"
+      url: "/what-to-expect/"
 
-saturday_shuffle:
-  - title: Saturday Shuffle
-    image_path: /assets/images/gcr-course-river_trail.png
-    alt: "gcr-river-trail"
+excerpt: >
+  Simple runs. Friendly people. A rhythm you can count on.<br>
+  Every pace is welcome, and there is always a place for you.
+
+monday:
+  - title: Monday Morning Run
     excerpt: >
-      Saturdays are meant for sunshine and smiles! Jump-start your weekend with <b>30-40 minutes</b> of movement.
-      <br/>
-      <b>Time:</b> 9:00 a.m.
-      <b>Location:</b> [Gem Island's front parking lot](https://maps.app.goo.gl/BaPxSsdz23LQ7svC8).
-
-monday_motivation:
-  - title: Monday Motivation
-    image_path: /assets/images/gcr-course-wandering_from_washington.png
-    alt: "gcr-city-center"
-    excerpt: >
-      Dreading that weekly start? We’ve all been there. Let "Monday Motivation" help shake off the Sunday Scaries by running <a href="https://www.strava.com/routes/3409722789213259998"> through Emmett’s heart</a>!
-      <br/>
-      <b>Time:</b> 6:00 a.m.
-      <b>Location:</b> [Wild Things Coffee Co.](https://maps.app.goo.gl/PqzvywY77Z7Qj77GA)
-
-outro:
-  - title: More to come!
-    excerpt: We're just getting started and look to add more dates to our line up! Interested in exploring more of Gem County?
-    url: "../our-routes/"
+      <b>6:00 AM</b><br>
+      Gem State Coffee Co.<br><br>
+      Start your week with easy miles and good company. We keep the pace conversational and the route simple so you can ease into the day.
+    url: "/what-to-expect/"
+    btn_label: "What to Expect"
     btn_class: "btn--primary"
-    btn_label: "See More Routes"
+
+saturday:
+  - title: Saturday Community Run
+    excerpt: >
+      <b>9:00 AM</b><br>
+      Gem Island Sports Complex<br><br>
+      A relaxed weekend run for walkers, joggers, ruckers, and families. Plenty of space, plenty of smiles, and a great way to start your Saturday.
+    url: "/what-to-expect/"
+    btn_label: "New Here"
+    btn_class: "btn--primary"
+
+popups:
+  - title: Pop Up Runs
+    excerpt: >
+      We add spontaneous runs throughout the week when the weather is good or when someone feels like exploring. These are casual, low pressure, and announced in our community channels.
+    url: "https://facebook.com/groups/639916621983362/"
+    btn_label: "Join the Group"
+    btn_class: "btn--primary"
+
+pace:
+  - title: Every Pace Belongs
+    excerpt: >
+      Walkers. Run walkers. Joggers. Ruckers. Stroller pushers. Beginners. Returning runners.<br><br>
+      No pace expectations. No pressure. No one runs alone.
+    url: "/what-to-expect/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+routes:
+  - title: Our Routes
+    excerpt: >
+      Curious where we go. Explore loops, paths, and quiet roads around Emmett. Each one has its own story.
+    url: "/our-routes/"
+    btn_label: "Explore Routes"
+    btn_class: "btn--primary"
 ---
-{% include feature_row id="monday_motivation" type="right" %}
-{% include feature_row id="saturday_shuffle" type="left" %}
-{% include feature_row id="outro" type="center" %}
+
+{% include feature_row id="monday" type="left" %}
+{% include feature_row id="saturday" type="right" %}
+{% include feature_row id="popups" type="left" %}
+{% include feature_row id="pace" type="right" %}
+{% include feature_row id="routes" type="center" %}
