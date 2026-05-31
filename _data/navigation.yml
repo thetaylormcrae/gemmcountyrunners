@@ -1,12 +1,11 @@
-# Sample site navigation bar links
 main:
   - title: Start Here
     url: /what-to-expect/
   - title: Weekly Runs
     url: /our-runs/
-  - title: Routes
+  - title: Where We Run
     url: /our-routes/
-  - title: About
+  - title: About Us
     url: /about/
-  - title: Let's Connect
+  - title: Connect
     url: /lets-connect/
