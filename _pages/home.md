@@ -47,7 +47,7 @@ We keep things simple, friendly, and welcoming.
 Here’s where you can join us this week:
 
 - **Monday – 6:00 AM**  
-  Start at <b>Wild Things Coffee Co.</b>  
+  Start at <b>Gem State Coffee Co.</b>  
   Easy, conversational miles through Emmett’s heart.
 
 - **Saturday – 9:00 AM**  
