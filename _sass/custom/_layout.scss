@@ -1,54 +1,54 @@
-// ============================
-// Layout, spacing, containers
-// ============================
+// ===========================
+// Layout + Spacing + Containers
+// ===========================
 
 // Constrain text width for readability
 .page__content,
 .page__lead,
 .feature__content {
-  max-width: $max-text-width;
+  max-width: $gcr-max-content-width;
   margin-left: auto;
   margin-right: auto;
 }
 
 // Splash header height
 .page__hero--overlay {
-  padding: 3rem 0 !important;
+  padding: $gcr-hero-padding 0 !important;
 }
 
 // Splash page content spacing
 .splash .page__content {
-  padding-top: 1rem !important;
-  padding-bottom: 1rem !important;
+  padding-top: $gcr-section-spacing !important;
+  padding-bottom: $gcr-section-spacing !important;
 }
 
 // Feature rows spacing
 .feature__wrapper {
-  padding-top: 2rem !important;
-  padding-bottom: 2rem !important;
+  padding-top: $gcr-feature-row-spacing !important;
+  padding-bottom: $gcr-feature-row-spacing !important;
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
 
 // Buttons vertical rhythm
 .btn {
-  margin-top: 0.75rem !important;
-  margin-bottom: 0 !important;
+  margin-top: $gcr-button-top-margin !important;
+  margin-bottom: $gcr-button-bottom-margin !important;
 }
 
-// General section spacing
+// Remove trailing spacing at end of sections
 .page__content > *:last-child {
   margin-bottom: 0;
 }
 
 // Large screens tuning
-@media (min-width: 1600px) {
+@media (min-width: $gcr-large-screen-breakpoint) {
   .page__hero--overlay {
-    padding: 2.5rem 0 !important;
+    padding: $gcr-hero-padding-large 0 !important;
   }
 
   .feature__wrapper {
-    padding-top: 1.5rem !important;
-    padding-bottom: 1.5rem !important;
+    padding-top: ($gcr-feature-row-spacing * 0.75) !important;
+    padding-bottom: ($gcr-feature-row-spacing * 0.75) !important;
   }
 }
