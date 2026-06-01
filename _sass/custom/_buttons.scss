@@ -1,4 +1,6 @@
+// ===========================
 // Buttons
+// ===========================
 
 .btn {
   background-color: $accent-color;
@@ -10,6 +12,9 @@
   text-transform: uppercase;
   transition: background-color 0.3s ease, transform 0.1s ease;
   border: none;
+
+  margin-top: $gcr-button-top-margin !important;
+  margin-bottom: $gcr-button-bottom-margin !important;
 
   &:hover,
   &:focus {
