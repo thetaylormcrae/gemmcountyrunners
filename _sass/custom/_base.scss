@@ -1,15 +1,17 @@
-// Base typography and body
+// ===========================
+// Base Typography + Body
+// ===========================
 
 body {
   font-family: $global-font-family;
   color: $text-color;
   background-color: $body-background-color;
-  line-height: 1.6;
+  line-height: $gcr-line-height;
 }
 
 p {
   font-weight: 500;
-  margin-bottom: 1rem;
+  margin-bottom: $gcr-paragraph-spacing;
 }
 
 a {
@@ -26,7 +28,7 @@ a {
 
 ul,
 ol {
-  margin-bottom: 1rem;
+  margin-bottom: $gcr-paragraph-spacing;
   padding-left: 1.25rem;
 }
 
