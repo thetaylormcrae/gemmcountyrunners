@@ -1,25 +1,74 @@
 // ===========================
-// Gem County Runners Skin Variables
+// Gem County Runners — Custom Override Variables
+// ===========================
+//
+// These variables define spacing, layout behavior, and breakpoints
+// for your custom SCSS overrides. They do NOT duplicate or replace
+// skin variables (colors, fonts, global theme vars).
+//
+// The skin file remains the source of truth for:
+// - brand colors
+// - font families
+// - global theme variables
+// - layout-wide defaults like $max-text-width
+//
+// This file is ONLY for override-layer variables used by:
+// - _layout.scss
+// - _headings.scss
+// - _buttons.scss
+// - _masthead.scss
+// - _quotes.scss
 // ===========================
 
-// Brand Colors
-$brand-color: #4CB5AB !default;            // Teal
-$primary-color: $brand-color !default;
-$accent-color: #F5BE43 !default;           // Goldenrod
-$secondary-color: $accent-color !default;
-$text-color: #2C2C2C !default;
-$link-color: $primary-color !default;
-$link-hover-color: $accent-color !default;
-$body-background-color: #F9F9F9 !default;
-$border-color: darken($primary-color, 15%) !default;
 
-// Fonts
-$font-family-primary: "Quicksand", sans-serif !default;
-$font-family-secondary: "Montserrat", sans-serif !default;
-$font-family-caption: "Roboto Slab", serif !default;
-$global-font-family: $font-family-primary !default;
-$header-font-family: $font-family-secondary !default;
-$caption-font-family: $font-family-caption !default;
+// ---------------------------
+// Layout + Spacing
+// ---------------------------
 
-// Layout
-$max-text-width: 760px !default;
+// Maximum readable text width for custom overrides
+$gcr-max-content-width: 760px !default;
+
+// Vertical spacing between major sections
+$gcr-section-spacing: 2rem !default;
+
+// Vertical spacing inside feature rows
+$gcr-feature-row-spacing: 2rem !default;
+
+// Splash hero padding (top/bottom)
+$gcr-hero-padding: 3rem !default;
+
+// Reduced hero padding for very large screens
+$gcr-hero-padding-large: 2.5rem !default;
+
+
+// ---------------------------
+// Breakpoints
+// ---------------------------
+
+// Mobile-first breakpoint
+$gcr-mobile-breakpoint: 768px !default;
+
+// Large desktop breakpoint
+$gcr-large-screen-breakpoint: 1600px !default;
+
+
+// ---------------------------
+// Buttons + UI Rhythm
+// ---------------------------
+
+// Vertical spacing above buttons
+$gcr-button-top-margin: 0.75rem !default;
+
+// Vertical spacing below buttons
+$gcr-button-bottom-margin: 0 !default;
+
+
+// ---------------------------
+// Typography Rhythm
+// ---------------------------
+
+// Default paragraph spacing
+$gcr-paragraph-spacing: 1rem !default;
+
+// Default line height for body text
+$gcr-line-height: 1.6 !default;
