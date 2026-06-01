@@ -1,3 +1,5 @@
+// Buttons
+
 .btn {
   background-color: $accent-color;
   color: white;
@@ -6,13 +8,26 @@
   border-radius: 6px;
   padding: 0.5em 1em;
   text-transform: uppercase;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.1s ease;
+  border: none;
 
-  &:hover {
+  &:hover,
+  &:focus {
     background-color: darken($accent-color, 10%);
+    text-decoration: none;
+    transform: translateY(-1px);
   }
 }
 
 .btn--primary {
   background-color: $primary-color;
+
+  &:hover,
+  &:focus {
+    background-color: darken($primary-color, 10%);
+  }
+}
+
+.btn--block {
+  display: inline-block;
 }
