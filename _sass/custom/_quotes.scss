@@ -1,4 +1,6 @@
-// Blockquotes and quotes
+// ===========================
+// Blockquotes + Quotes
+// ===========================
 
 blockquote,
 .quote {
@@ -7,7 +9,7 @@ blockquote,
   color: $text-color;
   padding: 0.75em 1em;
   font-style: italic;
-  margin: 1rem 0;
+  margin: $gcr-section-spacing 0;
 }
 
 blockquote p:last-child {
