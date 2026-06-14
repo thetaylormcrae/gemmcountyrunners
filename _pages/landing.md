@@ -9,22 +9,13 @@ header:
   overlay_filter: "rgba(47,127,120,0.5)"
   caption: Born in Emmett. Built for Idaho.
 excerpt: >
-  New to Gem County Runners. Here is everything you need to know before your first run.<br><br>
+  New to Gem County Runners? Here is everything you need to know before your first run!<br><br>
   We keep things simple, friendly, and welcoming for all paces.
----
-
-# What to Expect
-
-Showing up for a group run can feel intimidating. We get it.  
-This page is here to make your first visit easy, comfortable, and stress free.
-
-Whether you walk, jog, or run, you belong here.
-
 ---
 
 ## All Paces Welcome
 
-We mean it.  
+We mean it!  
 Walkers, run walkers, stroller pushers, dogs, first timers, and seasoned runners all fit in.
 
 There are no pace expectations.  
@@ -51,10 +42,10 @@ Each run begins with a short overview of the route and options for different dis
 
 ## When We Run
 
-**Mondays at 6:00 AM**  
+**Mondays at 6:00 AM at Gem State Coffee Co**  
 A calm start to the week.
 
-**Saturdays at 9:00 AM**  
+**Saturdays at 9:00 AM at Gem Island Sports Complex**  
 Community miles with a relaxed, social feel.
 
 **Pop Up Runs**  
@@ -90,11 +81,11 @@ We are here to move, connect, and enjoy the place we call home.
 
 ## Your First Run
 
-Just show up.  
+Just show up!
 Introduce yourself if you want to.  
 We will take care of the rest.
 
-There is always a place for you.
+There is always a place for you here.
 
 [Join the Community](/lets-connect/){: .btn .btn--primary}
 
