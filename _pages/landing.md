@@ -9,18 +9,18 @@ header:
   overlay_filter: "rgba(47,127,120,0.5)"
   caption: Born in Emmett. Built for Idaho.
 excerpt: >
-  New to Gem County Runners? Here is everything you need to know before your first run!<br><br>
+  New to Gem County Runners? Here’s everything you need to know before your first run!<br><br>
   We keep things simple, friendly, and welcoming for all paces.
 ---
 
 ## All Paces Welcome
 
 We mean it!  
-Walkers, run walkers, stroller pushers, dogs, first timers, and seasoned runners all fit in.
+Walkers, run‑walkers, stroller pushers, dogs, first timers, and seasoned runners all fit in.
 
 There are no pace expectations.  
 There is no pressure.  
-No one runs alone.
+No one moves alone.
 
 [Join a Run](/our-runs/){: .btn .btn--primary}
 
@@ -34,7 +34,7 @@ We rotate routes around Emmett. Most runs start from:
 - Emmett City Park  
 - Local trailheads and quiet country roads  
 
-Each run begins with a short overview of the route and options for different distances.
+Every gathering begins with a quick overview of the route and options for different distances.
 
 [See Weekly Runs](/our-runs/){: .btn .btn--primary}
 
@@ -42,16 +42,16 @@ Each run begins with a short overview of the route and options for different dis
 
 ## When We Run
 
-**Mondays at 6:00 AM at Gem State Coffee Co**  
-A calm start to the week.
+**Mondays at 6:00 AM — Gem State Coffee Co**  
+A calm, quiet start to the week.
 
-**Saturdays at 9:00 AM at Gem Island Sports Complex**  
-Community miles with a relaxed, social feel.
+**Saturdays at 9:00 AM — Gem Island Sports Complex**  
+Relaxed weekend miles with a friendly, social feel.
 
-**Pop Up Runs**  
+**Pop‑Up Runs**  
 Announced on Facebook and Instagram.
 
-[Facebook Group](https://facebook.com/groups/639916621983362/){: .btn .btn--primary}  
+[Facebook Group](https://facebook.com/groups/gemcountyrunners/){: .btn .btn--primary}  
 [Instagram](https://instagram.com/gemcountyrunners){: .btn .btn--primary}
 
 ---
@@ -64,15 +64,15 @@ Neighborly.
 A little quirky.  
 Very Gem County.
 
-We are friendly, not fancy.  
-We are here to move, connect, and enjoy the place we call home.
+We’re friendly, not fancy.  
+We’re here to move, connect, and enjoy the place we call home.
 
 ---
 
 ## What to Bring
 
 - Comfortable shoes  
-- Weather appropriate layers  
+- Weather‑appropriate layers  
 - Water if you want it  
 - A friend if you want company  
 - A sense of curiosity  
@@ -81,9 +81,9 @@ We are here to move, connect, and enjoy the place we call home.
 
 ## Your First Run
 
-Just show up!
+Just show up.  
 Introduce yourself if you want to.  
-We will take care of the rest.
+We’ll take care of the rest.
 
 There is always a place for you here.
 
@@ -91,7 +91,7 @@ There is always a place for you here.
 
 ---
 
-## Want to Explore More
+## Want to Explore More?
 
 Here are a few helpful places to continue:
 
