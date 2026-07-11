@@ -8,7 +8,7 @@ header:
   overlay_filter: "linear-gradient(rgba(255,138,0,0.4), rgba(76,181,171,0.5))"
 
 excerpt: >
-  Whether you’re chasing quiet sidewalks or sunrise trails, Gem County Runners is your invitation to reconnect with movement, neighbors, and purpose. Let’s build a stronger community, one stride at a time.
+  Born in Emmett. Built for Idaho. Gem County Runners is your invitation to prospect for potential—in your movement, your neighbors, and our shared home. Join us as we refine our stride and build a stronger community, one gem at a time.
 
 intro_when:
   - title: When We Run
@@ -21,6 +21,48 @@ intro_when:
 intro_where:
   - title: Where We Run
     excerpt: From short loops to scenic stretches, we’ve got options for every stride across Gem County.
+    image_path: /assets/images/gem-county-google-maps.png
+    url: "/our-routes/"
+    btn_class: "btn--primary"
+    btn_label: "Explore Gem County"
+
+why_we_run:
+  - title: Encourage Curiosity
+    excerpt: We treat every run as a prospecting mission. We encourage curiosity by helping you reconnect with your body, challenging you to discover your hidden limits, and uncovering the joy in the process of movement.
+    
+  - title: Foster Community
+    excerpt: We are diamonds in the rough, made brilliant through the support of the group. Our strength is found when we show up together, refining one another through every mile and turning the daily grind into a shared, high-caliber experience.
+
+  - title: Contribute Locally
+    excerpt: We are rooted in Emmett, built to serve Gem County. When curiosity and connection intersect, we contribute to the place we call home, ensuring that our local trails are polished and preserved for the next generation of runners.
+    
+social_links:
+  - image_path: /assets/images/strava.webp
+    alt: "Gem County Runners Strava club screenshot"
+    title: Strava Community
+    excerpt: Join the conversation, log your runs, and connect with fellow explorers.
+    url: "https://www.strava.com/clubs/gemcountyrunners"
+    btn_class: "btn--primary"
+    btn_label: "Join on Strava"
+  - image_path: /assets/images/instagram.jpg
+    alt: "Gem County Runners Instagram feed"
+    title: Find Us on Instagram
+    excerpt: Share your trail stories, tag us, and relive the best views.
+    url: "https://www.instagram.com/gemcountyrunners"
+    btn_class: "btn--primary"
+    btn_label: "Follow on Instagram"
+  - image_path: /assets/images/survey-banner.jpg
+    alt: "Gem County Runners availability survey graphic"
+    title: Let Us Know Your Availability
+    excerpt: Help shape our group’s future—share your availability and run preferences.
+    url: "/availability-survey/"
+    btn_class: "btn--primary"
+    btn_label: "Make Our Community Stronger!"
+---
+{% include feature_row id="why_we_run" %}
+{% include feature_row id="intro_when" type="left" %}
+{% include feature_row id="intro_where" type="right" %}
+{% include feature_row id="social_links" %}
     image_path: /assets/images/gem-county-google-maps.png
     url: "/our-routes/"
     btn_class: "btn--primary"
